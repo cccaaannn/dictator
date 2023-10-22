@@ -1,0 +1,1 @@
+import{W as o,K as s,C as e,R as r}from"./core.min-b4ee58aa.js";import{T as m}from"./theme-context-1fe45f9e.js";const n=()=>{const t=o("light");return s(m,t),e(r,null,3,"mz_0")};export{n as s_233hVwmGXcc};

@@ -1,5 +1,5 @@
 {
-  "manifestHash": "a7iw69",
+  "manifestHash": "dn1vqa",
   "symbols": {
     "s_x8M3PSBRtmE": {
       "origin": "hooks/use-theme/useTheme.tsx",
@@ -479,40 +479,40 @@
     }
   },
   "mapping": {
-    "s_x8M3PSBRtmE": "entry_useTheme-0858a969.js",
-    "s_5Y9RoRO0FjM": "entry_Home-23c579d7.js",
-    "s_EWIT9ENzUX0": "entry_qwikifyQrl-b0515d5e.js",
-    "s_mo0HXTZl47U": "entry_Home-23c579d7.js",
-    "s_01wOR3hvYkk": "entry_useSpeechRecognition-1b367955.js",
-    "s_SiV0Bqma7Vo": "entry_useSpeechRecognition-1b367955.js",
-    "s_rUiT0heKLW4": "entry_useSpeechRecognition-1b367955.js",
-    "s_233hVwmGXcc": "entry_ThemeProvider-04525176.js",
-    "s_AkbU84a8zes": "entry_App-b065e184.js",
-    "s_HVKJpElwleM": "entry_HomeLayout-df603f00.js",
-    "s_NSzCs2iTIOw": "entry_ControlButtons-0bad4e37.js",
-    "s_XuuTVOkpY0k": "entry_Home-23c579d7.js",
-    "s_bWxjFXuhJxQ": "entry_TextContentCard-5b76f9ad.js",
-    "s_zH94hIe0Ick": "entry_qwikifyQrl-b0515d5e.js",
-    "s_5EoLqefrCLo": "entry_Typography-4f615188.js",
-    "s_Vq7cUYvJsVE": "entry_Alert-f36eec2b.js",
-    "s_YcpUnevDOig": "entry_useSpeechRecognition-1b367955.js",
+    "s_x8M3PSBRtmE": "entry_useTheme-4f9ad165.js",
+    "s_5Y9RoRO0FjM": "entry_Home-3e20cd77.js",
+    "s_EWIT9ENzUX0": "entry_qwikifyQrl-f9e37e17.js",
+    "s_mo0HXTZl47U": "entry_Home-3e20cd77.js",
+    "s_01wOR3hvYkk": "entry_useSpeechRecognition-0ab2e6a2.js",
+    "s_SiV0Bqma7Vo": "entry_useSpeechRecognition-0ab2e6a2.js",
+    "s_rUiT0heKLW4": "entry_useSpeechRecognition-0ab2e6a2.js",
+    "s_233hVwmGXcc": "entry_ThemeProvider-5126dc69.js",
+    "s_AkbU84a8zes": "entry_App-8b22c7a5.js",
+    "s_HVKJpElwleM": "entry_HomeLayout-e78534f3.js",
+    "s_NSzCs2iTIOw": "entry_ControlButtons-f77b981d.js",
+    "s_XuuTVOkpY0k": "entry_Home-3e20cd77.js",
+    "s_bWxjFXuhJxQ": "entry_TextContentCard-4954df99.js",
+    "s_zH94hIe0Ick": "entry_qwikifyQrl-f9e37e17.js",
+    "s_5EoLqefrCLo": "entry_Typography-0f15a35c.js",
+    "s_Vq7cUYvJsVE": "entry_Alert-59decc74.js",
+    "s_YcpUnevDOig": "entry_useSpeechRecognition-0ab2e6a2.js",
     "s_cqfqq7k6M6g": "entry_CssBaseline-1a46491a.js",
-    "s_iGT9jpoakVc": "entry_useSpeechRecognition-1b367955.js",
-    "s_1lxT2SrDWxk": "entry_ControlButtons-0bad4e37.js",
-    "s_FuZyD3y5aiM": "entry_ControlButtons-0bad4e37.js",
-    "s_iWVXWrHJmkE": "entry_Home-23c579d7.js",
-    "s_hkT84xKSMLE": "entry_qwikifyQrl-b0515d5e.js",
-    "s_6LYztwGzxAA": "entry_useWakeupSignal-06ec430c.js",
-    "s_M2htshDj8gs": "entry_TooltipChip-6542c0b1.js",
-    "s_nnfAqPYCfnw": "entry_Box-103832ee.js",
-    "s_r5e6Y6l027A": "entry_IconButton-aeef4e78.js",
-    "s_tUkYQF4z4PA": "entry_LocaleComboBox-5550c6bd.js",
+    "s_iGT9jpoakVc": "entry_useSpeechRecognition-0ab2e6a2.js",
+    "s_1lxT2SrDWxk": "entry_ControlButtons-f77b981d.js",
+    "s_FuZyD3y5aiM": "entry_ControlButtons-f77b981d.js",
+    "s_iWVXWrHJmkE": "entry_Home-3e20cd77.js",
+    "s_hkT84xKSMLE": "entry_qwikifyQrl-f9e37e17.js",
+    "s_6LYztwGzxAA": "entry_useWakeupSignal-5b23dc0c.js",
+    "s_M2htshDj8gs": "entry_TooltipChip-d10f0c5e.js",
+    "s_nnfAqPYCfnw": "entry_Box-791e0c95.js",
+    "s_r5e6Y6l027A": "entry_IconButton-20ec4c66.js",
+    "s_tUkYQF4z4PA": "entry_LocaleComboBox-dcde0489.js",
     "s_vg0W3q2nIe0": "entry_Container-fd57d4ae.js",
-    "s_yB7DAD0tufo": "entry_useSpeechRecognition-1b367955.js",
-    "s_8lijs500tO0": "entry_Home-23c579d7.js",
-    "s_NJMe9D2wTsw": "entry_Home-23c579d7.js",
-    "s_NRR280d1SzQ": "entry_Home-23c579d7.js",
-    "s_gvpRZSG15gA": "entry_Home-23c579d7.js"
+    "s_yB7DAD0tufo": "entry_useSpeechRecognition-0ab2e6a2.js",
+    "s_8lijs500tO0": "entry_Home-3e20cd77.js",
+    "s_NJMe9D2wTsw": "entry_Home-3e20cd77.js",
+    "s_NRR280d1SzQ": "entry_Home-3e20cd77.js",
+    "s_gvpRZSG15gA": "entry_Home-3e20cd77.js"
   },
   "bundles": {
     "content-display-type-2beacfce.js": {
@@ -521,8 +521,8 @@
         "src/types/content-display-type.ts"
       ]
     },
-    "core.min-8576279f.js": {
-      "size": 47603,
+    "core.min-b4ee58aa.js": {
+      "size": 47612,
       "origins": [
         "node_modules/@builder.io/qwik/core.min.mjs"
       ]
@@ -569,17 +569,17 @@
         "node_modules/@mui/utils/esm/formatMuiErrorMessage.js"
       ]
     },
-    "entry_Alert-f36eec2b.js": {
+    "entry_Alert-59decc74.js": {
       "size": 364,
       "imports": [
-        "core.min-8576279f.js",
+        "core.min-b4ee58aa.js",
         "createTheme-d96f305b.js",
         "GlobalStyles-1f45d569.js",
         "index-863a273a.js",
         "index-a2555fc4.js",
-        "index.qwik-6fa1865c.js",
+        "index.qwik-f321ce71.js",
         "jsx-runtime-851d10b7.js",
-        "mui-7a1af525.js",
+        "mui-a5ef9051.js",
         "styled-1de36be1.js",
         "useThemeProps-2cefba37.js"
       ],
@@ -591,24 +591,24 @@
         "s_Vq7cUYvJsVE"
       ]
     },
-    "entry_App-b065e184.js": {
+    "entry_App-8b22c7a5.js": {
       "size": 1715,
       "imports": [
-        "core.min-8576279f.js",
+        "core.min-b4ee58aa.js",
         "createTheme-d96f305b.js",
         "GlobalStyles-1f45d569.js",
         "index-863a273a.js",
         "index-a2555fc4.js",
-        "index.qwik-6fa1865c.js",
+        "index.qwik-f321ce71.js",
         "jsx-runtime-851d10b7.js",
-        "mui-7a1af525.js",
+        "mui-a5ef9051.js",
         "styled-1de36be1.js",
         "useThemeProps-2cefba37.js"
       ],
       "dynamicImports": [
-        "entry_Home-23c579d7.js",
-        "entry_HomeLayout-df603f00.js",
-        "entry_ThemeProvider-04525176.js"
+        "entry_Home-3e20cd77.js",
+        "entry_HomeLayout-e78534f3.js",
+        "entry_ThemeProvider-5126dc69.js"
       ],
       "origins": [
         "src/components/layout/home-layout.tsx",
@@ -621,17 +621,17 @@
         "s_AkbU84a8zes"
       ]
     },
-    "entry_Box-103832ee.js": {
+    "entry_Box-791e0c95.js": {
       "size": 364,
       "imports": [
-        "core.min-8576279f.js",
+        "core.min-b4ee58aa.js",
         "createTheme-d96f305b.js",
         "GlobalStyles-1f45d569.js",
         "index-863a273a.js",
         "index-a2555fc4.js",
-        "index.qwik-6fa1865c.js",
+        "index.qwik-f321ce71.js",
         "jsx-runtime-851d10b7.js",
-        "mui-7a1af525.js",
+        "mui-a5ef9051.js",
         "styled-1de36be1.js",
         "useThemeProps-2cefba37.js"
       ],
@@ -643,12 +643,12 @@
         "s_nnfAqPYCfnw"
       ]
     },
-    "entry_Button-2a25eeb2.js": {
+    "entry_Button-573d9cf6.js": {
       "size": 127,
       "imports": [
-        "core.min-8576279f.js",
+        "core.min-b4ee58aa.js",
         "index-a2555fc4.js",
-        "index.qwik-6fa1865c.js",
+        "index.qwik-f321ce71.js",
         "jsx-runtime-851d10b7.js"
       ],
       "origins": [
@@ -657,12 +657,12 @@
         "src/entry_TooltipTypography.js"
       ]
     },
-    "entry_CircularProgress-2a25eeb2.js": {
+    "entry_CircularProgress-573d9cf6.js": {
       "size": 127,
       "imports": [
-        "core.min-8576279f.js",
+        "core.min-b4ee58aa.js",
         "index-a2555fc4.js",
-        "index.qwik-6fa1865c.js",
+        "index.qwik-f321ce71.js",
         "jsx-runtime-851d10b7.js"
       ]
     },
@@ -686,21 +686,21 @@
         "s_vg0W3q2nIe0"
       ]
     },
-    "entry_ControlButtons-0bad4e37.js": {
+    "entry_ControlButtons-f77b981d.js": {
       "size": 2724,
       "imports": [
         "content-display-type-2beacfce.js",
-        "core.min-8576279f.js",
+        "core.min-b4ee58aa.js",
         "createTheme-d96f305b.js",
         "GlobalStyles-1f45d569.js",
         "index-863a273a.js",
         "index-a2555fc4.js",
-        "index.qwik-6fa1865c.js",
+        "index.qwik-f321ce71.js",
         "jsx-runtime-851d10b7.js",
-        "mui-7a1af525.js",
+        "mui-a5ef9051.js",
         "styled-1de36be1.js",
-        "theme-context-d14dccb2.js",
-        "useTheme-2bef1d0f.js",
+        "theme-context-1fe45f9e.js",
+        "useTheme-0c37727c.js",
         "useThemeProps-2cefba37.js"
       ],
       "origins": [
@@ -733,32 +733,32 @@
         "s_cqfqq7k6M6g"
       ]
     },
-    "entry_Home-23c579d7.js": {
+    "entry_Home-3e20cd77.js": {
       "size": 5791,
       "imports": [
         "content-display-type-2beacfce.js",
-        "core.min-8576279f.js",
+        "core.min-b4ee58aa.js",
         "createTheme-d96f305b.js",
         "GlobalStyles-1f45d569.js",
         "index-863a273a.js",
         "index-a2555fc4.js",
-        "index.qwik-6fa1865c.js",
+        "index.qwik-f321ce71.js",
         "jsx-runtime-851d10b7.js",
-        "mui-7a1af525.js",
+        "mui-a5ef9051.js",
         "styled-1de36be1.js",
-        "text-content-card-7a3d36c9.js",
-        "theme-context-d14dccb2.js",
-        "useTheme-2bef1d0f.js",
+        "text-content-card-6ff9d7d3.js",
+        "theme-context-1fe45f9e.js",
+        "useTheme-0c37727c.js",
         "useThemeProps-2cefba37.js"
       ],
       "dynamicImports": [
-        "entry_ControlButtons-0bad4e37.js",
-        "entry_useSpeechRecognition-1b367955.js",
-        "entry_useSpeechRecognition-1b367955.js",
-        "entry_useSpeechRecognition-1b367955.js",
-        "entry_useSpeechRecognition-1b367955.js",
-        "entry_useSpeechRecognition-1b367955.js",
-        "entry_useSpeechRecognition-1b367955.js"
+        "entry_ControlButtons-f77b981d.js",
+        "entry_useSpeechRecognition-0ab2e6a2.js",
+        "entry_useSpeechRecognition-0ab2e6a2.js",
+        "entry_useSpeechRecognition-0ab2e6a2.js",
+        "entry_useSpeechRecognition-0ab2e6a2.js",
+        "entry_useSpeechRecognition-0ab2e6a2.js",
+        "entry_useSpeechRecognition-0ab2e6a2.js"
       ],
       "origins": [
         "src/components/control-buttons/control-buttons.tsx",
@@ -785,20 +785,20 @@
         "s_XuuTVOkpY0k"
       ]
     },
-    "entry_HomeLayout-df603f00.js": {
+    "entry_HomeLayout-e78534f3.js": {
       "size": 1102,
       "imports": [
-        "core.min-8576279f.js",
+        "core.min-b4ee58aa.js",
         "createTheme-d96f305b.js",
         "GlobalStyles-1f45d569.js",
         "index-863a273a.js",
         "index-a2555fc4.js",
-        "index.qwik-6fa1865c.js",
+        "index.qwik-f321ce71.js",
         "jsx-runtime-851d10b7.js",
-        "mui-7a1af525.js",
+        "mui-a5ef9051.js",
         "styled-1de36be1.js",
-        "theme-context-d14dccb2.js",
-        "useTheme-2bef1d0f.js",
+        "theme-context-1fe45f9e.js",
+        "useTheme-0c37727c.js",
         "useThemeProps-2cefba37.js"
       ],
       "origins": [
@@ -809,17 +809,17 @@
         "s_HVKJpElwleM"
       ]
     },
-    "entry_IconButton-aeef4e78.js": {
+    "entry_IconButton-20ec4c66.js": {
       "size": 364,
       "imports": [
-        "core.min-8576279f.js",
+        "core.min-b4ee58aa.js",
         "createTheme-d96f305b.js",
         "GlobalStyles-1f45d569.js",
         "index-863a273a.js",
         "index-a2555fc4.js",
-        "index.qwik-6fa1865c.js",
+        "index.qwik-f321ce71.js",
         "jsx-runtime-851d10b7.js",
-        "mui-7a1af525.js",
+        "mui-a5ef9051.js",
         "styled-1de36be1.js",
         "useThemeProps-2cefba37.js"
       ],
@@ -831,17 +831,17 @@
         "s_r5e6Y6l027A"
       ]
     },
-    "entry_LocaleComboBox-5550c6bd.js": {
+    "entry_LocaleComboBox-dcde0489.js": {
       "size": 364,
       "imports": [
-        "core.min-8576279f.js",
+        "core.min-b4ee58aa.js",
         "createTheme-d96f305b.js",
         "GlobalStyles-1f45d569.js",
         "index-863a273a.js",
         "index-a2555fc4.js",
-        "index.qwik-6fa1865c.js",
+        "index.qwik-f321ce71.js",
         "jsx-runtime-851d10b7.js",
-        "mui-7a1af525.js",
+        "mui-a5ef9051.js",
         "styled-1de36be1.js",
         "useThemeProps-2cefba37.js"
       ],
@@ -853,13 +853,13 @@
         "s_tUkYQF4z4PA"
       ]
     },
-    "entry_qwikifyQrl-b0515d5e.js": {
+    "entry_qwikifyQrl-f9e37e17.js": {
       "size": 1479,
       "imports": [
-        "core.min-8576279f.js",
+        "core.min-b4ee58aa.js",
         "index-863a273a.js",
         "index-a2555fc4.js",
-        "index.qwik-6fa1865c.js"
+        "index.qwik-f321ce71.js"
       ],
       "origins": [
         "node_modules/react-dom/client.js",
@@ -874,22 +874,22 @@
         "s_zH94hIe0Ick"
       ]
     },
-    "entry_TextContentCard-5b76f9ad.js": {
+    "entry_TextContentCard-4954df99.js": {
       "size": 1720,
       "imports": [
         "content-display-type-2beacfce.js",
-        "core.min-8576279f.js",
+        "core.min-b4ee58aa.js",
         "createTheme-d96f305b.js",
         "GlobalStyles-1f45d569.js",
         "index-863a273a.js",
         "index-a2555fc4.js",
-        "index.qwik-6fa1865c.js",
+        "index.qwik-f321ce71.js",
         "jsx-runtime-851d10b7.js",
-        "mui-7a1af525.js",
+        "mui-a5ef9051.js",
         "styled-1de36be1.js",
-        "text-content-card-7a3d36c9.js",
-        "theme-context-d14dccb2.js",
-        "useTheme-2bef1d0f.js",
+        "text-content-card-6ff9d7d3.js",
+        "theme-context-1fe45f9e.js",
+        "useTheme-0c37727c.js",
         "useThemeProps-2cefba37.js"
       ],
       "origins": [
@@ -906,11 +906,11 @@
         "src/entry_TextField.js"
       ]
     },
-    "entry_ThemeProvider-04525176.js": {
+    "entry_ThemeProvider-5126dc69.js": {
       "size": 206,
       "imports": [
-        "core.min-8576279f.js",
-        "theme-context-d14dccb2.js"
+        "core.min-b4ee58aa.js",
+        "theme-context-1fe45f9e.js"
       ],
       "origins": [
         "src/entry_ThemeProvider.js",
@@ -920,17 +920,17 @@
         "s_233hVwmGXcc"
       ]
     },
-    "entry_TooltipChip-6542c0b1.js": {
+    "entry_TooltipChip-d10f0c5e.js": {
       "size": 364,
       "imports": [
-        "core.min-8576279f.js",
+        "core.min-b4ee58aa.js",
         "createTheme-d96f305b.js",
         "GlobalStyles-1f45d569.js",
         "index-863a273a.js",
         "index-a2555fc4.js",
-        "index.qwik-6fa1865c.js",
+        "index.qwik-f321ce71.js",
         "jsx-runtime-851d10b7.js",
-        "mui-7a1af525.js",
+        "mui-a5ef9051.js",
         "styled-1de36be1.js",
         "useThemeProps-2cefba37.js"
       ],
@@ -942,26 +942,26 @@
         "s_M2htshDj8gs"
       ]
     },
-    "entry_TooltipTypography-2a25eeb2.js": {
+    "entry_TooltipTypography-573d9cf6.js": {
       "size": 127,
       "imports": [
-        "core.min-8576279f.js",
+        "core.min-b4ee58aa.js",
         "index-a2555fc4.js",
-        "index.qwik-6fa1865c.js",
+        "index.qwik-f321ce71.js",
         "jsx-runtime-851d10b7.js"
       ]
     },
-    "entry_Typography-4f615188.js": {
+    "entry_Typography-0f15a35c.js": {
       "size": 364,
       "imports": [
-        "core.min-8576279f.js",
+        "core.min-b4ee58aa.js",
         "createTheme-d96f305b.js",
         "GlobalStyles-1f45d569.js",
         "index-863a273a.js",
         "index-a2555fc4.js",
-        "index.qwik-6fa1865c.js",
+        "index.qwik-f321ce71.js",
         "jsx-runtime-851d10b7.js",
-        "mui-7a1af525.js",
+        "mui-a5ef9051.js",
         "styled-1de36be1.js",
         "useThemeProps-2cefba37.js"
       ],
@@ -973,10 +973,10 @@
         "s_5EoLqefrCLo"
       ]
     },
-    "entry_useSpeechRecognition-1b367955.js": {
+    "entry_useSpeechRecognition-0ab2e6a2.js": {
       "size": 1746,
       "imports": [
-        "core.min-8576279f.js"
+        "core.min-b4ee58aa.js"
       ],
       "origins": [
         "src/entry_useSpeechRecognition.js",
@@ -996,13 +996,13 @@
         "s_YcpUnevDOig"
       ]
     },
-    "entry_useTheme-0858a969.js": {
+    "entry_useTheme-4f9ad165.js": {
       "size": 401,
       "imports": [
-        "core.min-8576279f.js",
+        "core.min-b4ee58aa.js",
         "createTheme-d96f305b.js",
-        "theme-context-d14dccb2.js",
-        "useTheme-2bef1d0f.js"
+        "theme-context-1fe45f9e.js",
+        "useTheme-0c37727c.js"
       ],
       "origins": [
         "src/entry_useTheme.js",
@@ -1012,10 +1012,10 @@
         "s_x8M3PSBRtmE"
       ]
     },
-    "entry_useWakeupSignal-06ec430c.js": {
+    "entry_useWakeupSignal-5b23dc0c.js": {
       "size": 116,
       "imports": [
-        "core.min-8576279f.js"
+        "core.min-b4ee58aa.js"
       ],
       "origins": [
         "src/entry_useWakeupSignal.js",
@@ -1043,6 +1043,22 @@
         "node_modules/hoist-non-react-statics/node_modules/react-is/index.js"
       ]
     },
+    "index-15e69f2e.js": {
+      "size": 2551,
+      "imports": [
+        "core.min-b4ee58aa.js"
+      ],
+      "dynamicImports": [
+        "entry_App-8b22c7a5.js"
+      ],
+      "origins": [
+        "index.html",
+        "node_modules/@builder.io/qwik/qwikloader.js",
+        "src/app.tsx",
+        "src/index.css",
+        "src/main.tsx"
+      ]
+    },
     "index-863a273a.js": {
       "size": 134026,
       "imports": [
@@ -1062,31 +1078,15 @@
         "node_modules/react/index.js"
       ]
     },
-    "index-b3a306eb.js": {
-      "size": 2551,
-      "imports": [
-        "core.min-8576279f.js"
-      ],
-      "dynamicImports": [
-        "entry_App-b065e184.js"
-      ],
-      "origins": [
-        "index.html",
-        "node_modules/@builder.io/qwik/qwikloader.js",
-        "src/app.tsx",
-        "src/index.css",
-        "src/main.tsx"
-      ]
-    },
-    "index.qwik-6fa1865c.js": {
+    "index.qwik-f321ce71.js": {
       "size": 1624,
       "imports": [
-        "core.min-8576279f.js",
+        "core.min-b4ee58aa.js",
         "index-a2555fc4.js"
       ],
       "dynamicImports": [
-        "entry_qwikifyQrl-b0515d5e.js",
-        "entry_useWakeupSignal-06ec430c.js"
+        "entry_qwikifyQrl-f9e37e17.js",
+        "entry_useWakeupSignal-5b23dc0c.js"
       ],
       "origins": [
         "node_modules/@builder.io/qwik-react/lib/index.qwik.mjs"
@@ -1102,28 +1102,28 @@
         "node_modules/react/jsx-runtime.js"
       ]
     },
-    "mui-7a1af525.js": {
+    "mui-a5ef9051.js": {
       "size": 178330,
       "imports": [
-        "core.min-8576279f.js",
+        "core.min-b4ee58aa.js",
         "createTheme-d96f305b.js",
         "GlobalStyles-1f45d569.js",
         "index-863a273a.js",
         "index-a2555fc4.js",
-        "index.qwik-6fa1865c.js",
+        "index.qwik-f321ce71.js",
         "jsx-runtime-851d10b7.js",
         "styled-1de36be1.js",
         "useThemeProps-2cefba37.js"
       ],
       "dynamicImports": [
-        "entry_Alert-f36eec2b.js",
-        "entry_Box-103832ee.js",
+        "entry_Alert-59decc74.js",
+        "entry_Box-791e0c95.js",
         "entry_Container-fd57d4ae.js",
         "entry_CssBaseline-1a46491a.js",
-        "entry_IconButton-aeef4e78.js",
-        "entry_LocaleComboBox-5550c6bd.js",
-        "entry_TooltipChip-6542c0b1.js",
-        "entry_Typography-4f615188.js"
+        "entry_IconButton-20ec4c66.js",
+        "entry_LocaleComboBox-dcde0489.js",
+        "entry_TooltipChip-d10f0c5e.js",
+        "entry_Typography-0f15a35c.js"
       ],
       "origins": [
         "node_modules/@babel/runtime/helpers/esm/assertThisInitialized.js",
@@ -1332,14 +1332,14 @@
         "node_modules/clsx/dist/clsx.mjs"
       ]
     },
-    "text-content-card-7a3d36c9.js": {
+    "text-content-card-6ff9d7d3.js": {
       "size": 1202,
       "imports": [
-        "core.min-8576279f.js",
+        "core.min-b4ee58aa.js",
         "createTheme-d96f305b.js"
       ],
       "dynamicImports": [
-        "entry_TextContentCard-5b76f9ad.js"
+        "entry_TextContentCard-4954df99.js"
       ],
       "origins": [
         "node_modules/@mui/material/colors/amber.js",
@@ -1347,24 +1347,24 @@
         "src/components/text-content-card/text-content-card.tsx"
       ]
     },
-    "theme-context-d14dccb2.js": {
+    "theme-context-1fe45f9e.js": {
       "size": 86,
       "imports": [
-        "core.min-8576279f.js"
+        "core.min-b4ee58aa.js"
       ],
       "origins": [
         "src/hooks/use-theme/theme-context.ts"
       ]
     },
-    "useTheme-2bef1d0f.js": {
+    "useTheme-0c37727c.js": {
       "size": 2244,
       "imports": [
-        "core.min-8576279f.js",
+        "core.min-b4ee58aa.js",
         "createTheme-d96f305b.js",
-        "theme-context-d14dccb2.js"
+        "theme-context-1fe45f9e.js"
       ],
       "dynamicImports": [
-        "entry_useTheme-0858a969.js"
+        "entry_useTheme-4f9ad165.js"
       ],
       "origins": [
         "node_modules/@mui/material/styles/cssUtils.js",
@@ -1410,7 +1410,7 @@
       "tag": "style",
       "location": "head",
       "attributes": {
-        "data-src": "/assets/index-d11379d0.css",
+        "data-src": "/dictator/assets/index-d11379d0.css",
         "dangerouslySetInnerHTML": "body{background-color:inherit!important}::-webkit-scrollbar{width:15px;left:-150px}::-webkit-scrollbar-thumb{background:#C2185B;background-clip:content-box;border:5px solid transparent}\n"
       }
     }
