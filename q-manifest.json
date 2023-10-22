@@ -1,0 +1,1434 @@
+{
+  "manifestHash": "a7iw69",
+  "symbols": {
+    "s_x8M3PSBRtmE": {
+      "origin": "hooks/use-theme/useTheme.tsx",
+      "displayName": "useTheme_useTask",
+      "canonicalFilename": "s_x8m3psbrtme",
+      "hash": "x8M3PSBRtmE",
+      "ctxKind": "function",
+      "ctxName": "useTask$",
+      "captures": true,
+      "parent": null,
+      "loc": [
+        939,
+        1253
+      ]
+    },
+    "s_5Y9RoRO0FjM": {
+      "origin": "pages/home.tsx",
+      "displayName": "Home_component_useTask_2",
+      "canonicalFilename": "s_5y9roro0fjm",
+      "hash": "5Y9RoRO0FjM",
+      "ctxKind": "function",
+      "ctxName": "useTask$",
+      "captures": true,
+      "parent": "s_XuuTVOkpY0k",
+      "loc": [
+        2145,
+        2547
+      ]
+    },
+    "s_EWIT9ENzUX0": {
+      "origin": "../node_modules/@builder.io/qwik-react/lib/index.qwik.mjs",
+      "displayName": "qwikifyQrl_component_useTask",
+      "canonicalFilename": "s_ewit9enzux0",
+      "hash": "EWIT9ENzUX0",
+      "ctxKind": "function",
+      "ctxName": "useTask$",
+      "captures": true,
+      "parent": "s_zH94hIe0Ick",
+      "loc": [
+        5529,
+        6719
+      ]
+    },
+    "s_mo0HXTZl47U": {
+      "origin": "pages/home.tsx",
+      "displayName": "Home_component_useTask_1",
+      "canonicalFilename": "s_mo0hxtzl47u",
+      "hash": "mo0HXTZl47U",
+      "ctxKind": "function",
+      "ctxName": "useTask$",
+      "captures": true,
+      "parent": "s_XuuTVOkpY0k",
+      "loc": [
+        1851,
+        2129
+      ]
+    },
+    "s_01wOR3hvYkk": {
+      "origin": "hooks/use-speech-recognition/useSpeechRecognition.tsx",
+      "displayName": "useSpeechRecognition_useVisibleTask",
+      "canonicalFilename": "s_01wor3hvykk",
+      "hash": "01wOR3hvYkk",
+      "ctxKind": "function",
+      "ctxName": "useVisibleTask$",
+      "captures": true,
+      "parent": null,
+      "loc": [
+        1950,
+        2261
+      ]
+    },
+    "s_SiV0Bqma7Vo": {
+      "origin": "hooks/use-speech-recognition/useSpeechRecognition.tsx",
+      "displayName": "useSpeechRecognition_useVisibleTask_2",
+      "canonicalFilename": "s_siv0bqma7vo",
+      "hash": "SiV0Bqma7Vo",
+      "ctxKind": "function",
+      "ctxName": "useVisibleTask$",
+      "captures": true,
+      "parent": null,
+      "loc": [
+        2650,
+        3859
+      ]
+    },
+    "s_rUiT0heKLW4": {
+      "origin": "hooks/use-speech-recognition/useSpeechRecognition.tsx",
+      "displayName": "useSpeechRecognition_useVisibleTask_1",
+      "canonicalFilename": "s_ruit0heklw4",
+      "hash": "rUiT0heKLW4",
+      "ctxKind": "function",
+      "ctxName": "useVisibleTask$",
+      "captures": true,
+      "parent": null,
+      "loc": [
+        2284,
+        2627
+      ]
+    },
+    "s_233hVwmGXcc": {
+      "origin": "hooks/use-theme/theme-provider.tsx",
+      "displayName": "ThemeProvider_component",
+      "canonicalFilename": "s_233hvwmgxcc",
+      "hash": "233hVwmGXcc",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null,
+      "loc": [
+        258,
+        390
+      ]
+    },
+    "s_AkbU84a8zes": {
+      "origin": "app.tsx",
+      "displayName": "App_component",
+      "canonicalFilename": "s_akbu84a8zes",
+      "hash": "AkbU84a8zes",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null,
+      "loc": [
+        300,
+        425
+      ]
+    },
+    "s_HVKJpElwleM": {
+      "origin": "components/layout/home-layout.tsx",
+      "displayName": "HomeLayout_component",
+      "canonicalFilename": "s_hvkjpelwlem",
+      "hash": "HVKJpElwleM",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null,
+      "loc": [
+        212,
+        725
+      ]
+    },
+    "s_NSzCs2iTIOw": {
+      "origin": "components/control-buttons/control-buttons.tsx",
+      "displayName": "ControlButtons_component",
+      "canonicalFilename": "s_nszcs2itiow",
+      "hash": "NSzCs2iTIOw",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null,
+      "loc": [
+        495,
+        3098
+      ]
+    },
+    "s_XuuTVOkpY0k": {
+      "origin": "pages/home.tsx",
+      "displayName": "Home_component",
+      "canonicalFilename": "s_xuutvokpy0k",
+      "hash": "XuuTVOkpY0k",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null,
+      "loc": [
+        789,
+        3518
+      ]
+    },
+    "s_bWxjFXuhJxQ": {
+      "origin": "components/text-content-card/text-content-card.tsx",
+      "displayName": "TextContentCard_component",
+      "canonicalFilename": "s_bwxjfxuhjxq",
+      "hash": "bWxjFXuhJxQ",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null,
+      "loc": [
+        1050,
+        2932
+      ]
+    },
+    "s_zH94hIe0Ick": {
+      "origin": "../node_modules/@builder.io/qwik-react/lib/index.qwik.mjs",
+      "displayName": "qwikifyQrl_component",
+      "canonicalFilename": "s_zh94hie0ick",
+      "hash": "zH94hIe0Ick",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": true,
+      "parent": null,
+      "loc": [
+        4948,
+        8083
+      ]
+    },
+    "s_5EoLqefrCLo": {
+      "origin": "integrations/react/mui.tsx",
+      "displayName": "Typography_qwikify",
+      "canonicalFilename": "s_5eolqefrclo",
+      "hash": "5EoLqefrCLo",
+      "ctxKind": "function",
+      "ctxName": "qwikify$",
+      "captures": false,
+      "parent": null,
+      "loc": [
+        6643,
+        6659
+      ]
+    },
+    "s_Vq7cUYvJsVE": {
+      "origin": "integrations/react/mui.tsx",
+      "displayName": "Alert_qwikify",
+      "canonicalFilename": "s_vq7cuyvjsve",
+      "hash": "Vq7cUYvJsVE",
+      "ctxKind": "function",
+      "ctxName": "qwikify$",
+      "captures": false,
+      "parent": null,
+      "loc": [
+        7041,
+        7052
+      ]
+    },
+    "s_YcpUnevDOig": {
+      "origin": "hooks/use-speech-recognition/useSpeechRecognition.tsx",
+      "displayName": "useSpeechRecognition_toggle",
+      "canonicalFilename": "s_ycpunevdoig",
+      "hash": "YcpUnevDOig",
+      "ctxKind": "function",
+      "ctxName": "$",
+      "captures": true,
+      "parent": null,
+      "loc": [
+        1871,
+        1927
+      ]
+    },
+    "s_cqfqq7k6M6g": {
+      "origin": "integrations/react/mui.tsx",
+      "displayName": "CssBaseline_qwikify",
+      "canonicalFilename": "s_cqfqq7k6m6g",
+      "hash": "cqfqq7k6M6g",
+      "ctxKind": "function",
+      "ctxName": "qwikify$",
+      "captures": false,
+      "parent": null,
+      "loc": [
+        6455,
+        6467
+      ]
+    },
+    "s_iGT9jpoakVc": {
+      "origin": "hooks/use-speech-recognition/useSpeechRecognition.tsx",
+      "displayName": "useSpeechRecognition_stop",
+      "canonicalFilename": "s_igt9jpoakvc",
+      "hash": "iGT9jpoakVc",
+      "ctxKind": "function",
+      "ctxName": "$",
+      "captures": true,
+      "parent": null,
+      "loc": [
+        1676,
+        1847
+      ]
+    },
+    "s_1lxT2SrDWxk": {
+      "origin": "components/control-buttons/control-buttons.tsx",
+      "displayName": "ControlButtons_component_Box_Box_IconButton_onClick",
+      "canonicalFilename": "s_1lxt2srdwxk",
+      "hash": "1lxT2SrDWxk",
+      "ctxKind": "jSXProp",
+      "ctxName": "onClick$",
+      "captures": true,
+      "parent": "s_NSzCs2iTIOw",
+      "loc": [
+        1384,
+        1467
+      ]
+    },
+    "s_FuZyD3y5aiM": {
+      "origin": "components/control-buttons/control-buttons.tsx",
+      "displayName": "ControlButtons_component_Box_IconButton_onClick",
+      "canonicalFilename": "s_fuzyd3y5aim",
+      "hash": "FuZyD3y5aiM",
+      "ctxKind": "jSXProp",
+      "ctxName": "onClick$",
+      "captures": true,
+      "parent": "s_NSzCs2iTIOw",
+      "loc": [
+        2585,
+        2721
+      ]
+    },
+    "s_iWVXWrHJmkE": {
+      "origin": "pages/home.tsx",
+      "displayName": "Home_component_useTask",
+      "canonicalFilename": "s_iwvxwrhjmke",
+      "hash": "iWVXWrHJmkE",
+      "ctxKind": "function",
+      "ctxName": "useTask$",
+      "captures": true,
+      "parent": "s_XuuTVOkpY0k",
+      "loc": [
+        1602,
+        1835
+      ]
+    },
+    "s_hkT84xKSMLE": {
+      "origin": "../node_modules/@builder.io/qwik-react/lib/index.qwik.mjs",
+      "displayName": "qwikifyQrl_component_stylesscoped_useStylesScoped",
+      "canonicalFilename": "s_hkt84xksmle",
+      "hash": "hkT84xKSMLE",
+      "ctxKind": "function",
+      "ctxName": "useStylesScoped$",
+      "captures": false,
+      "parent": "s_zH94hIe0Ick",
+      "loc": [
+        5102,
+        5165
+      ]
+    },
+    "s_6LYztwGzxAA": {
+      "origin": "../node_modules/@builder.io/qwik-react/lib/index.qwik.mjs",
+      "displayName": "useWakeupSignal_activate",
+      "canonicalFilename": "s_6lyztwgzxaa",
+      "hash": "6LYztwGzxAA",
+      "ctxKind": "function",
+      "ctxName": "activate",
+      "captures": true,
+      "parent": null,
+      "loc": [
+        2477,
+        2562
+      ]
+    },
+    "s_M2htshDj8gs": {
+      "origin": "integrations/react/mui.tsx",
+      "displayName": "TooltipChip_qwikify",
+      "canonicalFilename": "s_m2htshdj8gs",
+      "hash": "M2htshDj8gs",
+      "ctxKind": "function",
+      "ctxName": "qwikify$",
+      "captures": false,
+      "parent": null,
+      "loc": [
+        6816,
+        6833
+      ]
+    },
+    "s_nnfAqPYCfnw": {
+      "origin": "integrations/react/mui.tsx",
+      "displayName": "Box_qwikify",
+      "canonicalFilename": "s_nnfaqpycfnw",
+      "hash": "nnfAqPYCfnw",
+      "ctxKind": "function",
+      "ctxName": "qwikify$",
+      "captures": false,
+      "parent": null,
+      "loc": [
+        6499,
+        6508
+      ]
+    },
+    "s_r5e6Y6l027A": {
+      "origin": "integrations/react/mui.tsx",
+      "displayName": "IconButton_qwikify",
+      "canonicalFilename": "s_r5e6y6l027a",
+      "hash": "r5e6Y6l027A",
+      "ctxKind": "function",
+      "ctxName": "qwikify$",
+      "captures": false,
+      "parent": null,
+      "loc": [
+        6967,
+        6983
+      ]
+    },
+    "s_tUkYQF4z4PA": {
+      "origin": "integrations/react/mui.tsx",
+      "displayName": "LocaleComboBox_qwikify",
+      "canonicalFilename": "s_tukyqf4z4pa",
+      "hash": "tUkYQF4z4PA",
+      "ctxKind": "function",
+      "ctxName": "qwikify$",
+      "captures": false,
+      "parent": null,
+      "loc": [
+        7282,
+        7297
+      ]
+    },
+    "s_vg0W3q2nIe0": {
+      "origin": "integrations/react/mui.tsx",
+      "displayName": "Container_qwikify",
+      "canonicalFilename": "s_vg0w3q2nie0",
+      "hash": "vg0W3q2nIe0",
+      "ctxKind": "function",
+      "ctxName": "qwikify$",
+      "captures": false,
+      "parent": null,
+      "loc": [
+        6570,
+        6580
+      ]
+    },
+    "s_yB7DAD0tufo": {
+      "origin": "hooks/use-speech-recognition/useSpeechRecognition.tsx",
+      "displayName": "useSpeechRecognition_start",
+      "canonicalFilename": "s_yb7dad0tufo",
+      "hash": "yB7DAD0tufo",
+      "ctxKind": "function",
+      "ctxName": "$",
+      "captures": true,
+      "parent": null,
+      "loc": [
+        1482,
+        1654
+      ]
+    },
+    "s_8lijs500tO0": {
+      "origin": "pages/home.tsx",
+      "displayName": "Home_component_copyText",
+      "canonicalFilename": "s_8lijs500to0",
+      "hash": "8lijs500tO0",
+      "ctxKind": "function",
+      "ctxName": "$",
+      "captures": true,
+      "parent": "s_XuuTVOkpY0k",
+      "loc": [
+        1383,
+        1504
+      ]
+    },
+    "s_NJMe9D2wTsw": {
+      "origin": "pages/home.tsx",
+      "displayName": "Home_component_clearText",
+      "canonicalFilename": "s_njme9d2wtsw",
+      "hash": "NJMe9D2wTsw",
+      "ctxKind": "function",
+      "ctxName": "$",
+      "captures": true,
+      "parent": "s_XuuTVOkpY0k",
+      "loc": [
+        1531,
+        1586
+      ]
+    },
+    "s_NRR280d1SzQ": {
+      "origin": "pages/home.tsx",
+      "displayName": "Home_component__Fragment_LocaleComboBox_onChange",
+      "canonicalFilename": "s_nrr280d1szq",
+      "hash": "NRR280d1SzQ",
+      "ctxKind": "jSXProp",
+      "ctxName": "onChange$",
+      "captures": true,
+      "parent": "s_XuuTVOkpY0k",
+      "loc": [
+        3277,
+        3446
+      ]
+    },
+    "s_gvpRZSG15gA": {
+      "origin": "pages/home.tsx",
+      "displayName": "Home_component_voiceRecognitionResultList_useComputed",
+      "canonicalFilename": "s_gvprzsg15ga",
+      "hash": "gvpRZSG15gA",
+      "ctxKind": "function",
+      "ctxName": "useComputed$",
+      "captures": true,
+      "parent": "s_XuuTVOkpY0k",
+      "loc": [
+        1267,
+        1357
+      ]
+    }
+  },
+  "mapping": {
+    "s_x8M3PSBRtmE": "entry_useTheme-0858a969.js",
+    "s_5Y9RoRO0FjM": "entry_Home-23c579d7.js",
+    "s_EWIT9ENzUX0": "entry_qwikifyQrl-b0515d5e.js",
+    "s_mo0HXTZl47U": "entry_Home-23c579d7.js",
+    "s_01wOR3hvYkk": "entry_useSpeechRecognition-1b367955.js",
+    "s_SiV0Bqma7Vo": "entry_useSpeechRecognition-1b367955.js",
+    "s_rUiT0heKLW4": "entry_useSpeechRecognition-1b367955.js",
+    "s_233hVwmGXcc": "entry_ThemeProvider-04525176.js",
+    "s_AkbU84a8zes": "entry_App-b065e184.js",
+    "s_HVKJpElwleM": "entry_HomeLayout-df603f00.js",
+    "s_NSzCs2iTIOw": "entry_ControlButtons-0bad4e37.js",
+    "s_XuuTVOkpY0k": "entry_Home-23c579d7.js",
+    "s_bWxjFXuhJxQ": "entry_TextContentCard-5b76f9ad.js",
+    "s_zH94hIe0Ick": "entry_qwikifyQrl-b0515d5e.js",
+    "s_5EoLqefrCLo": "entry_Typography-4f615188.js",
+    "s_Vq7cUYvJsVE": "entry_Alert-f36eec2b.js",
+    "s_YcpUnevDOig": "entry_useSpeechRecognition-1b367955.js",
+    "s_cqfqq7k6M6g": "entry_CssBaseline-1a46491a.js",
+    "s_iGT9jpoakVc": "entry_useSpeechRecognition-1b367955.js",
+    "s_1lxT2SrDWxk": "entry_ControlButtons-0bad4e37.js",
+    "s_FuZyD3y5aiM": "entry_ControlButtons-0bad4e37.js",
+    "s_iWVXWrHJmkE": "entry_Home-23c579d7.js",
+    "s_hkT84xKSMLE": "entry_qwikifyQrl-b0515d5e.js",
+    "s_6LYztwGzxAA": "entry_useWakeupSignal-06ec430c.js",
+    "s_M2htshDj8gs": "entry_TooltipChip-6542c0b1.js",
+    "s_nnfAqPYCfnw": "entry_Box-103832ee.js",
+    "s_r5e6Y6l027A": "entry_IconButton-aeef4e78.js",
+    "s_tUkYQF4z4PA": "entry_LocaleComboBox-5550c6bd.js",
+    "s_vg0W3q2nIe0": "entry_Container-fd57d4ae.js",
+    "s_yB7DAD0tufo": "entry_useSpeechRecognition-1b367955.js",
+    "s_8lijs500tO0": "entry_Home-23c579d7.js",
+    "s_NJMe9D2wTsw": "entry_Home-23c579d7.js",
+    "s_NRR280d1SzQ": "entry_Home-23c579d7.js",
+    "s_gvpRZSG15gA": "entry_Home-23c579d7.js"
+  },
+  "bundles": {
+    "content-display-type-2beacfce.js": {
+      "size": 94,
+      "origins": [
+        "src/types/content-display-type.ts"
+      ]
+    },
+    "core.min-8576279f.js": {
+      "size": 47603,
+      "origins": [
+        "node_modules/@builder.io/qwik/core.min.mjs"
+      ]
+    },
+    "createTheme-d96f305b.js": {
+      "size": 22844,
+      "origins": [
+        "node_modules/@babel/runtime/helpers/esm/extends.js",
+        "node_modules/@babel/runtime/helpers/esm/objectWithoutPropertiesLoose.js",
+        "node_modules/@mui/material/colors/blue.js",
+        "node_modules/@mui/material/colors/common.js",
+        "node_modules/@mui/material/colors/green.js",
+        "node_modules/@mui/material/colors/grey.js",
+        "node_modules/@mui/material/colors/lightBlue.js",
+        "node_modules/@mui/material/colors/orange.js",
+        "node_modules/@mui/material/colors/purple.js",
+        "node_modules/@mui/material/colors/red.js",
+        "node_modules/@mui/material/styles/createMixins.js",
+        "node_modules/@mui/material/styles/createPalette.js",
+        "node_modules/@mui/material/styles/createTheme.js",
+        "node_modules/@mui/material/styles/createTransitions.js",
+        "node_modules/@mui/material/styles/createTypography.js",
+        "node_modules/@mui/material/styles/shadows.js",
+        "node_modules/@mui/material/styles/zIndex.js",
+        "node_modules/@mui/system/esm/borders.js",
+        "node_modules/@mui/system/esm/breakpoints.js",
+        "node_modules/@mui/system/esm/colorManipulator.js",
+        "node_modules/@mui/system/esm/compose.js",
+        "node_modules/@mui/system/esm/createTheme/createBreakpoints.js",
+        "node_modules/@mui/system/esm/createTheme/createSpacing.js",
+        "node_modules/@mui/system/esm/createTheme/createTheme.js",
+        "node_modules/@mui/system/esm/createTheme/shape.js",
+        "node_modules/@mui/system/esm/cssGrid.js",
+        "node_modules/@mui/system/esm/memoize.js",
+        "node_modules/@mui/system/esm/merge.js",
+        "node_modules/@mui/system/esm/palette.js",
+        "node_modules/@mui/system/esm/sizing.js",
+        "node_modules/@mui/system/esm/spacing.js",
+        "node_modules/@mui/system/esm/style.js",
+        "node_modules/@mui/system/esm/styleFunctionSx/defaultSxConfig.js",
+        "node_modules/@mui/system/esm/styleFunctionSx/styleFunctionSx.js",
+        "node_modules/@mui/utils/esm/capitalize/capitalize.js",
+        "node_modules/@mui/utils/esm/deepmerge.js",
+        "node_modules/@mui/utils/esm/formatMuiErrorMessage.js"
+      ]
+    },
+    "entry_Alert-f36eec2b.js": {
+      "size": 364,
+      "imports": [
+        "core.min-8576279f.js",
+        "createTheme-d96f305b.js",
+        "GlobalStyles-1f45d569.js",
+        "index-863a273a.js",
+        "index-a2555fc4.js",
+        "index.qwik-6fa1865c.js",
+        "jsx-runtime-851d10b7.js",
+        "mui-7a1af525.js",
+        "styled-1de36be1.js",
+        "useThemeProps-2cefba37.js"
+      ],
+      "origins": [
+        "src/entry_Alert.js",
+        "src/s_vq7cuyvjsve.js"
+      ],
+      "symbols": [
+        "s_Vq7cUYvJsVE"
+      ]
+    },
+    "entry_App-b065e184.js": {
+      "size": 1715,
+      "imports": [
+        "core.min-8576279f.js",
+        "createTheme-d96f305b.js",
+        "GlobalStyles-1f45d569.js",
+        "index-863a273a.js",
+        "index-a2555fc4.js",
+        "index.qwik-6fa1865c.js",
+        "jsx-runtime-851d10b7.js",
+        "mui-7a1af525.js",
+        "styled-1de36be1.js",
+        "useThemeProps-2cefba37.js"
+      ],
+      "dynamicImports": [
+        "entry_Home-23c579d7.js",
+        "entry_HomeLayout-df603f00.js",
+        "entry_ThemeProvider-04525176.js"
+      ],
+      "origins": [
+        "src/components/layout/home-layout.tsx",
+        "src/entry_App.js",
+        "src/hooks/use-theme/theme-provider.tsx",
+        "src/pages/home.tsx",
+        "src/s_akbu84a8zes.js"
+      ],
+      "symbols": [
+        "s_AkbU84a8zes"
+      ]
+    },
+    "entry_Box-103832ee.js": {
+      "size": 364,
+      "imports": [
+        "core.min-8576279f.js",
+        "createTheme-d96f305b.js",
+        "GlobalStyles-1f45d569.js",
+        "index-863a273a.js",
+        "index-a2555fc4.js",
+        "index.qwik-6fa1865c.js",
+        "jsx-runtime-851d10b7.js",
+        "mui-7a1af525.js",
+        "styled-1de36be1.js",
+        "useThemeProps-2cefba37.js"
+      ],
+      "origins": [
+        "src/entry_Box.js",
+        "src/s_nnfaqpycfnw.js"
+      ],
+      "symbols": [
+        "s_nnfAqPYCfnw"
+      ]
+    },
+    "entry_Button-2a25eeb2.js": {
+      "size": 127,
+      "imports": [
+        "core.min-8576279f.js",
+        "index-a2555fc4.js",
+        "index.qwik-6fa1865c.js",
+        "jsx-runtime-851d10b7.js"
+      ],
+      "origins": [
+        "src/entry_Button.js",
+        "src/entry_CircularProgress.js",
+        "src/entry_TooltipTypography.js"
+      ]
+    },
+    "entry_CircularProgress-2a25eeb2.js": {
+      "size": 127,
+      "imports": [
+        "core.min-8576279f.js",
+        "index-a2555fc4.js",
+        "index.qwik-6fa1865c.js",
+        "jsx-runtime-851d10b7.js"
+      ]
+    },
+    "entry_Container-fd57d4ae.js": {
+      "size": 2235,
+      "imports": [
+        "createTheme-d96f305b.js",
+        "index-a2555fc4.js",
+        "jsx-runtime-851d10b7.js",
+        "styled-1de36be1.js",
+        "useThemeProps-2cefba37.js"
+      ],
+      "origins": [
+        "node_modules/@mui/material/Container/Container.js",
+        "node_modules/@mui/system/esm/Container/createContainer.js",
+        "node_modules/@mui/system/esm/styled.js",
+        "src/entry_Container.js",
+        "src/s_vg0w3q2nie0.js"
+      ],
+      "symbols": [
+        "s_vg0W3q2nIe0"
+      ]
+    },
+    "entry_ControlButtons-0bad4e37.js": {
+      "size": 2724,
+      "imports": [
+        "content-display-type-2beacfce.js",
+        "core.min-8576279f.js",
+        "createTheme-d96f305b.js",
+        "GlobalStyles-1f45d569.js",
+        "index-863a273a.js",
+        "index-a2555fc4.js",
+        "index.qwik-6fa1865c.js",
+        "jsx-runtime-851d10b7.js",
+        "mui-7a1af525.js",
+        "styled-1de36be1.js",
+        "theme-context-d14dccb2.js",
+        "useTheme-2bef1d0f.js",
+        "useThemeProps-2cefba37.js"
+      ],
+      "origins": [
+        "src/entry_ControlButtons.js",
+        "src/s_1lxt2srdwxk.js",
+        "src/s_fuzyd3y5aim.js",
+        "src/s_nszcs2itiow.js"
+      ],
+      "symbols": [
+        "s_1lxT2SrDWxk",
+        "s_FuZyD3y5aiM",
+        "s_NSzCs2iTIOw"
+      ]
+    },
+    "entry_CssBaseline-1a46491a.js": {
+      "size": 1330,
+      "imports": [
+        "createTheme-d96f305b.js",
+        "GlobalStyles-1f45d569.js",
+        "index-a2555fc4.js",
+        "jsx-runtime-851d10b7.js",
+        "useThemeProps-2cefba37.js"
+      ],
+      "origins": [
+        "node_modules/@mui/material/CssBaseline/CssBaseline.js",
+        "src/entry_CssBaseline.js",
+        "src/s_cqfqq7k6m6g.js"
+      ],
+      "symbols": [
+        "s_cqfqq7k6M6g"
+      ]
+    },
+    "entry_Home-23c579d7.js": {
+      "size": 5791,
+      "imports": [
+        "content-display-type-2beacfce.js",
+        "core.min-8576279f.js",
+        "createTheme-d96f305b.js",
+        "GlobalStyles-1f45d569.js",
+        "index-863a273a.js",
+        "index-a2555fc4.js",
+        "index.qwik-6fa1865c.js",
+        "jsx-runtime-851d10b7.js",
+        "mui-7a1af525.js",
+        "styled-1de36be1.js",
+        "text-content-card-7a3d36c9.js",
+        "theme-context-d14dccb2.js",
+        "useTheme-2bef1d0f.js",
+        "useThemeProps-2cefba37.js"
+      ],
+      "dynamicImports": [
+        "entry_ControlButtons-0bad4e37.js",
+        "entry_useSpeechRecognition-1b367955.js",
+        "entry_useSpeechRecognition-1b367955.js",
+        "entry_useSpeechRecognition-1b367955.js",
+        "entry_useSpeechRecognition-1b367955.js",
+        "entry_useSpeechRecognition-1b367955.js",
+        "entry_useSpeechRecognition-1b367955.js"
+      ],
+      "origins": [
+        "src/components/control-buttons/control-buttons.tsx",
+        "src/entry_Home.js",
+        "src/hooks/use-speech-recognition/useSpeechRecognition.tsx",
+        "src/s_5y9roro0fjm.js",
+        "src/s_8lijs500to0.js",
+        "src/s_gvprzsg15ga.js",
+        "src/s_iwvxwrhjmke.js",
+        "src/s_mo0hxtzl47u.js",
+        "src/s_njme9d2wtsw.js",
+        "src/s_nrr280d1szq.js",
+        "src/s_xuutvokpy0k.js",
+        "src/utils/settings-utils.ts"
+      ],
+      "symbols": [
+        "s_5Y9RoRO0FjM",
+        "s_8lijs500tO0",
+        "s_gvpRZSG15gA",
+        "s_iWVXWrHJmkE",
+        "s_mo0HXTZl47U",
+        "s_NJMe9D2wTsw",
+        "s_NRR280d1SzQ",
+        "s_XuuTVOkpY0k"
+      ]
+    },
+    "entry_HomeLayout-df603f00.js": {
+      "size": 1102,
+      "imports": [
+        "core.min-8576279f.js",
+        "createTheme-d96f305b.js",
+        "GlobalStyles-1f45d569.js",
+        "index-863a273a.js",
+        "index-a2555fc4.js",
+        "index.qwik-6fa1865c.js",
+        "jsx-runtime-851d10b7.js",
+        "mui-7a1af525.js",
+        "styled-1de36be1.js",
+        "theme-context-d14dccb2.js",
+        "useTheme-2bef1d0f.js",
+        "useThemeProps-2cefba37.js"
+      ],
+      "origins": [
+        "src/entry_HomeLayout.js",
+        "src/s_hvkjpelwlem.js"
+      ],
+      "symbols": [
+        "s_HVKJpElwleM"
+      ]
+    },
+    "entry_IconButton-aeef4e78.js": {
+      "size": 364,
+      "imports": [
+        "core.min-8576279f.js",
+        "createTheme-d96f305b.js",
+        "GlobalStyles-1f45d569.js",
+        "index-863a273a.js",
+        "index-a2555fc4.js",
+        "index.qwik-6fa1865c.js",
+        "jsx-runtime-851d10b7.js",
+        "mui-7a1af525.js",
+        "styled-1de36be1.js",
+        "useThemeProps-2cefba37.js"
+      ],
+      "origins": [
+        "src/entry_IconButton.js",
+        "src/s_r5e6y6l027a.js"
+      ],
+      "symbols": [
+        "s_r5e6Y6l027A"
+      ]
+    },
+    "entry_LocaleComboBox-5550c6bd.js": {
+      "size": 364,
+      "imports": [
+        "core.min-8576279f.js",
+        "createTheme-d96f305b.js",
+        "GlobalStyles-1f45d569.js",
+        "index-863a273a.js",
+        "index-a2555fc4.js",
+        "index.qwik-6fa1865c.js",
+        "jsx-runtime-851d10b7.js",
+        "mui-7a1af525.js",
+        "styled-1de36be1.js",
+        "useThemeProps-2cefba37.js"
+      ],
+      "origins": [
+        "src/entry_LocaleComboBox.js",
+        "src/s_tukyqf4z4pa.js"
+      ],
+      "symbols": [
+        "s_tUkYQF4z4PA"
+      ]
+    },
+    "entry_qwikifyQrl-b0515d5e.js": {
+      "size": 1479,
+      "imports": [
+        "core.min-8576279f.js",
+        "index-863a273a.js",
+        "index-a2555fc4.js",
+        "index.qwik-6fa1865c.js"
+      ],
+      "origins": [
+        "node_modules/react-dom/client.js",
+        "src/entry_qwikifyQrl.js",
+        "src/s_ewit9enzux0.js",
+        "src/s_hkt84xksmle.js",
+        "src/s_zh94hie0ick.js"
+      ],
+      "symbols": [
+        "s_EWIT9ENzUX0",
+        "s_hkT84xKSMLE",
+        "s_zH94hIe0Ick"
+      ]
+    },
+    "entry_TextContentCard-5b76f9ad.js": {
+      "size": 1720,
+      "imports": [
+        "content-display-type-2beacfce.js",
+        "core.min-8576279f.js",
+        "createTheme-d96f305b.js",
+        "GlobalStyles-1f45d569.js",
+        "index-863a273a.js",
+        "index-a2555fc4.js",
+        "index.qwik-6fa1865c.js",
+        "jsx-runtime-851d10b7.js",
+        "mui-7a1af525.js",
+        "styled-1de36be1.js",
+        "text-content-card-7a3d36c9.js",
+        "theme-context-d14dccb2.js",
+        "useTheme-2bef1d0f.js",
+        "useThemeProps-2cefba37.js"
+      ],
+      "origins": [
+        "src/entry_TextContentCard.js",
+        "src/s_bwxjfxuhjxq.js"
+      ],
+      "symbols": [
+        "s_bWxjFXuhJxQ"
+      ]
+    },
+    "entry_TextField-4ed993c7.js": {
+      "size": 1,
+      "origins": [
+        "src/entry_TextField.js"
+      ]
+    },
+    "entry_ThemeProvider-04525176.js": {
+      "size": 206,
+      "imports": [
+        "core.min-8576279f.js",
+        "theme-context-d14dccb2.js"
+      ],
+      "origins": [
+        "src/entry_ThemeProvider.js",
+        "src/s_233hvwmgxcc.js"
+      ],
+      "symbols": [
+        "s_233hVwmGXcc"
+      ]
+    },
+    "entry_TooltipChip-6542c0b1.js": {
+      "size": 364,
+      "imports": [
+        "core.min-8576279f.js",
+        "createTheme-d96f305b.js",
+        "GlobalStyles-1f45d569.js",
+        "index-863a273a.js",
+        "index-a2555fc4.js",
+        "index.qwik-6fa1865c.js",
+        "jsx-runtime-851d10b7.js",
+        "mui-7a1af525.js",
+        "styled-1de36be1.js",
+        "useThemeProps-2cefba37.js"
+      ],
+      "origins": [
+        "src/entry_TooltipChip.js",
+        "src/s_m2htshdj8gs.js"
+      ],
+      "symbols": [
+        "s_M2htshDj8gs"
+      ]
+    },
+    "entry_TooltipTypography-2a25eeb2.js": {
+      "size": 127,
+      "imports": [
+        "core.min-8576279f.js",
+        "index-a2555fc4.js",
+        "index.qwik-6fa1865c.js",
+        "jsx-runtime-851d10b7.js"
+      ]
+    },
+    "entry_Typography-4f615188.js": {
+      "size": 364,
+      "imports": [
+        "core.min-8576279f.js",
+        "createTheme-d96f305b.js",
+        "GlobalStyles-1f45d569.js",
+        "index-863a273a.js",
+        "index-a2555fc4.js",
+        "index.qwik-6fa1865c.js",
+        "jsx-runtime-851d10b7.js",
+        "mui-7a1af525.js",
+        "styled-1de36be1.js",
+        "useThemeProps-2cefba37.js"
+      ],
+      "origins": [
+        "src/entry_Typography.js",
+        "src/s_5eolqefrclo.js"
+      ],
+      "symbols": [
+        "s_5EoLqefrCLo"
+      ]
+    },
+    "entry_useSpeechRecognition-1b367955.js": {
+      "size": 1746,
+      "imports": [
+        "core.min-8576279f.js"
+      ],
+      "origins": [
+        "src/entry_useSpeechRecognition.js",
+        "src/s_01wor3hvykk.js",
+        "src/s_igt9jpoakvc.js",
+        "src/s_ruit0heklw4.js",
+        "src/s_siv0bqma7vo.js",
+        "src/s_yb7dad0tufo.js",
+        "src/s_ycpunevdoig.js"
+      ],
+      "symbols": [
+        "s_01wOR3hvYkk",
+        "s_iGT9jpoakVc",
+        "s_rUiT0heKLW4",
+        "s_SiV0Bqma7Vo",
+        "s_yB7DAD0tufo",
+        "s_YcpUnevDOig"
+      ]
+    },
+    "entry_useTheme-0858a969.js": {
+      "size": 401,
+      "imports": [
+        "core.min-8576279f.js",
+        "createTheme-d96f305b.js",
+        "theme-context-d14dccb2.js",
+        "useTheme-2bef1d0f.js"
+      ],
+      "origins": [
+        "src/entry_useTheme.js",
+        "src/s_x8m3psbrtme.js"
+      ],
+      "symbols": [
+        "s_x8M3PSBRtmE"
+      ]
+    },
+    "entry_useWakeupSignal-06ec430c.js": {
+      "size": 116,
+      "imports": [
+        "core.min-8576279f.js"
+      ],
+      "origins": [
+        "src/entry_useWakeupSignal.js",
+        "src/s_6lyztwgzxaa.js"
+      ],
+      "symbols": [
+        "s_6LYztwGzxAA"
+      ]
+    },
+    "GlobalStyles-1f45d569.js": {
+      "size": 4216,
+      "imports": [
+        "createTheme-d96f305b.js",
+        "index-a2555fc4.js",
+        "jsx-runtime-851d10b7.js",
+        "useThemeProps-2cefba37.js"
+      ],
+      "origins": [
+        "node_modules/@emotion/react/dist/emotion-react.browser.esm.js",
+        "node_modules/@mui/material/GlobalStyles/GlobalStyles.js",
+        "node_modules/@mui/styled-engine/GlobalStyles/GlobalStyles.js",
+        "node_modules/@mui/system/esm/GlobalStyles/GlobalStyles.js",
+        "node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js",
+        "node_modules/hoist-non-react-statics/node_modules/react-is/cjs/react-is.production.min.js",
+        "node_modules/hoist-non-react-statics/node_modules/react-is/index.js"
+      ]
+    },
+    "index-863a273a.js": {
+      "size": 134026,
+      "imports": [
+        "index-a2555fc4.js"
+      ],
+      "origins": [
+        "node_modules/react-dom/cjs/react-dom.production.min.js",
+        "node_modules/react-dom/index.js",
+        "node_modules/scheduler/cjs/scheduler.production.min.js",
+        "node_modules/scheduler/index.js"
+      ]
+    },
+    "index-a2555fc4.js": {
+      "size": 7218,
+      "origins": [
+        "node_modules/react/cjs/react.production.min.js",
+        "node_modules/react/index.js"
+      ]
+    },
+    "index-b3a306eb.js": {
+      "size": 2551,
+      "imports": [
+        "core.min-8576279f.js"
+      ],
+      "dynamicImports": [
+        "entry_App-b065e184.js"
+      ],
+      "origins": [
+        "index.html",
+        "node_modules/@builder.io/qwik/qwikloader.js",
+        "src/app.tsx",
+        "src/index.css",
+        "src/main.tsx"
+      ]
+    },
+    "index.qwik-6fa1865c.js": {
+      "size": 1624,
+      "imports": [
+        "core.min-8576279f.js",
+        "index-a2555fc4.js"
+      ],
+      "dynamicImports": [
+        "entry_qwikifyQrl-b0515d5e.js",
+        "entry_useWakeupSignal-06ec430c.js"
+      ],
+      "origins": [
+        "node_modules/@builder.io/qwik-react/lib/index.qwik.mjs"
+      ]
+    },
+    "jsx-runtime-851d10b7.js": {
+      "size": 918,
+      "imports": [
+        "index-a2555fc4.js"
+      ],
+      "origins": [
+        "node_modules/react/cjs/react-jsx-runtime.production.min.js",
+        "node_modules/react/jsx-runtime.js"
+      ]
+    },
+    "mui-7a1af525.js": {
+      "size": 178330,
+      "imports": [
+        "core.min-8576279f.js",
+        "createTheme-d96f305b.js",
+        "GlobalStyles-1f45d569.js",
+        "index-863a273a.js",
+        "index-a2555fc4.js",
+        "index.qwik-6fa1865c.js",
+        "jsx-runtime-851d10b7.js",
+        "styled-1de36be1.js",
+        "useThemeProps-2cefba37.js"
+      ],
+      "dynamicImports": [
+        "entry_Alert-f36eec2b.js",
+        "entry_Box-103832ee.js",
+        "entry_Container-fd57d4ae.js",
+        "entry_CssBaseline-1a46491a.js",
+        "entry_IconButton-aeef4e78.js",
+        "entry_LocaleComboBox-5550c6bd.js",
+        "entry_TooltipChip-6542c0b1.js",
+        "entry_Typography-4f615188.js"
+      ],
+      "origins": [
+        "node_modules/@babel/runtime/helpers/esm/assertThisInitialized.js",
+        "node_modules/@babel/runtime/helpers/esm/inheritsLoose.js",
+        "node_modules/@babel/runtime/helpers/esm/setPrototypeOf.js",
+        "node_modules/@mui/base/FocusTrap/FocusTrap.js",
+        "node_modules/@mui/base/Popper/Popper.js",
+        "node_modules/@mui/base/Popper/popperClasses.js",
+        "node_modules/@mui/base/Portal/Portal.js",
+        "node_modules/@mui/base/TextareaAutosize/TextareaAutosize.js",
+        "node_modules/@mui/base/unstable_useModal/ModalManager.js",
+        "node_modules/@mui/base/unstable_useModal/useModal.js",
+        "node_modules/@mui/base/useAutocomplete/useAutocomplete.js",
+        "node_modules/@mui/base/utils/ClassNameConfigurator.js",
+        "node_modules/@mui/base/utils/appendOwnerState.js",
+        "node_modules/@mui/base/utils/extractEventHandlers.js",
+        "node_modules/@mui/base/utils/isHostComponent.js",
+        "node_modules/@mui/base/utils/mergeSlotProps.js",
+        "node_modules/@mui/base/utils/omitEventHandlers.js",
+        "node_modules/@mui/base/utils/resolveComponentProps.js",
+        "node_modules/@mui/base/utils/useSlotProps.js",
+        "node_modules/@mui/material/Alert/Alert.js",
+        "node_modules/@mui/material/Alert/alertClasses.js",
+        "node_modules/@mui/material/Autocomplete/Autocomplete.js",
+        "node_modules/@mui/material/Autocomplete/autocompleteClasses.js",
+        "node_modules/@mui/material/Backdrop/Backdrop.js",
+        "node_modules/@mui/material/Backdrop/backdropClasses.js",
+        "node_modules/@mui/material/Box/Box.js",
+        "node_modules/@mui/material/ButtonBase/ButtonBase.js",
+        "node_modules/@mui/material/ButtonBase/Ripple.js",
+        "node_modules/@mui/material/ButtonBase/TouchRipple.js",
+        "node_modules/@mui/material/ButtonBase/buttonBaseClasses.js",
+        "node_modules/@mui/material/ButtonBase/touchRippleClasses.js",
+        "node_modules/@mui/material/Chip/Chip.js",
+        "node_modules/@mui/material/Chip/chipClasses.js",
+        "node_modules/@mui/material/Fade/Fade.js",
+        "node_modules/@mui/material/FilledInput/FilledInput.js",
+        "node_modules/@mui/material/FilledInput/filledInputClasses.js",
+        "node_modules/@mui/material/FormControl/FormControl.js",
+        "node_modules/@mui/material/FormControl/FormControlContext.js",
+        "node_modules/@mui/material/FormControl/formControlClasses.js",
+        "node_modules/@mui/material/FormControl/formControlState.js",
+        "node_modules/@mui/material/FormControl/useFormControl.js",
+        "node_modules/@mui/material/FormHelperText/FormHelperText.js",
+        "node_modules/@mui/material/FormHelperText/formHelperTextClasses.js",
+        "node_modules/@mui/material/FormLabel/FormLabel.js",
+        "node_modules/@mui/material/FormLabel/formLabelClasses.js",
+        "node_modules/@mui/material/Grow/Grow.js",
+        "node_modules/@mui/material/IconButton/IconButton.js",
+        "node_modules/@mui/material/IconButton/iconButtonClasses.js",
+        "node_modules/@mui/material/Input/Input.js",
+        "node_modules/@mui/material/Input/inputClasses.js",
+        "node_modules/@mui/material/InputBase/InputBase.js",
+        "node_modules/@mui/material/InputBase/inputBaseClasses.js",
+        "node_modules/@mui/material/InputBase/utils.js",
+        "node_modules/@mui/material/InputLabel/InputLabel.js",
+        "node_modules/@mui/material/InputLabel/inputLabelClasses.js",
+        "node_modules/@mui/material/List/List.js",
+        "node_modules/@mui/material/List/ListContext.js",
+        "node_modules/@mui/material/List/listClasses.js",
+        "node_modules/@mui/material/ListSubheader/ListSubheader.js",
+        "node_modules/@mui/material/ListSubheader/listSubheaderClasses.js",
+        "node_modules/@mui/material/Menu/Menu.js",
+        "node_modules/@mui/material/Menu/menuClasses.js",
+        "node_modules/@mui/material/MenuList/MenuList.js",
+        "node_modules/@mui/material/Modal/Modal.js",
+        "node_modules/@mui/material/Modal/modalClasses.js",
+        "node_modules/@mui/material/NativeSelect/NativeSelectInput.js",
+        "node_modules/@mui/material/NativeSelect/nativeSelectClasses.js",
+        "node_modules/@mui/material/OutlinedInput/NotchedOutline.js",
+        "node_modules/@mui/material/OutlinedInput/OutlinedInput.js",
+        "node_modules/@mui/material/OutlinedInput/outlinedInputClasses.js",
+        "node_modules/@mui/material/Paper/Paper.js",
+        "node_modules/@mui/material/Paper/paperClasses.js",
+        "node_modules/@mui/material/Popover/Popover.js",
+        "node_modules/@mui/material/Popover/popoverClasses.js",
+        "node_modules/@mui/material/Popper/Popper.js",
+        "node_modules/@mui/material/Select/Select.js",
+        "node_modules/@mui/material/Select/SelectInput.js",
+        "node_modules/@mui/material/Select/selectClasses.js",
+        "node_modules/@mui/material/SvgIcon/SvgIcon.js",
+        "node_modules/@mui/material/SvgIcon/svgIconClasses.js",
+        "node_modules/@mui/material/TextField/TextField.js",
+        "node_modules/@mui/material/TextField/textFieldClasses.js",
+        "node_modules/@mui/material/Tooltip/Tooltip.js",
+        "node_modules/@mui/material/Tooltip/tooltipClasses.js",
+        "node_modules/@mui/material/Typography/Typography.js",
+        "node_modules/@mui/material/Typography/typographyClasses.js",
+        "node_modules/@mui/material/internal/svg-icons/ArrowDropDown.js",
+        "node_modules/@mui/material/internal/svg-icons/Cancel.js",
+        "node_modules/@mui/material/internal/svg-icons/Close.js",
+        "node_modules/@mui/material/internal/svg-icons/ErrorOutline.js",
+        "node_modules/@mui/material/internal/svg-icons/InfoOutlined.js",
+        "node_modules/@mui/material/internal/svg-icons/ReportProblemOutlined.js",
+        "node_modules/@mui/material/internal/svg-icons/SuccessOutlined.js",
+        "node_modules/@mui/material/styles/ThemeProvider.js",
+        "node_modules/@mui/material/styles/getOverlayAlpha.js",
+        "node_modules/@mui/material/styles/useTheme.js",
+        "node_modules/@mui/material/transitions/utils.js",
+        "node_modules/@mui/material/utils/createSvgIcon.js",
+        "node_modules/@mui/private-theming/ThemeProvider/ThemeProvider.js",
+        "node_modules/@mui/private-theming/ThemeProvider/nested.js",
+        "node_modules/@mui/private-theming/useTheme/ThemeContext.js",
+        "node_modules/@mui/private-theming/useTheme/useTheme.js",
+        "node_modules/@mui/system/esm/ThemeProvider/ThemeProvider.js",
+        "node_modules/@mui/system/esm/createBox.js",
+        "node_modules/@mui/system/esm/styleFunctionSx/extendSxProp.js",
+        "node_modules/@mui/utils/esm/createChainedFunction.js",
+        "node_modules/@mui/utils/esm/debounce/debounce.js",
+        "node_modules/@mui/utils/esm/generateUtilityClasses/generateUtilityClasses.js",
+        "node_modules/@mui/utils/esm/getScrollbarSize.js",
+        "node_modules/@mui/utils/esm/isMuiElement.js",
+        "node_modules/@mui/utils/esm/ownerDocument/ownerDocument.js",
+        "node_modules/@mui/utils/esm/ownerWindow/ownerWindow.js",
+        "node_modules/@mui/utils/esm/setRef.js",
+        "node_modules/@mui/utils/esm/useControlled/useControlled.js",
+        "node_modules/@mui/utils/esm/useEnhancedEffect/useEnhancedEffect.js",
+        "node_modules/@mui/utils/esm/useEventCallback/useEventCallback.js",
+        "node_modules/@mui/utils/esm/useForkRef/useForkRef.js",
+        "node_modules/@mui/utils/esm/useId/useId.js",
+        "node_modules/@mui/utils/esm/useIsFocusVisible.js",
+        "node_modules/@mui/utils/esm/usePreviousProps.js",
+        "node_modules/@popperjs/core/lib/createPopper.js",
+        "node_modules/@popperjs/core/lib/dom-utils/contains.js",
+        "node_modules/@popperjs/core/lib/dom-utils/getBoundingClientRect.js",
+        "node_modules/@popperjs/core/lib/dom-utils/getClippingRect.js",
+        "node_modules/@popperjs/core/lib/dom-utils/getCompositeRect.js",
+        "node_modules/@popperjs/core/lib/dom-utils/getComputedStyle.js",
+        "node_modules/@popperjs/core/lib/dom-utils/getDocumentElement.js",
+        "node_modules/@popperjs/core/lib/dom-utils/getDocumentRect.js",
+        "node_modules/@popperjs/core/lib/dom-utils/getHTMLElementScroll.js",
+        "node_modules/@popperjs/core/lib/dom-utils/getLayoutRect.js",
+        "node_modules/@popperjs/core/lib/dom-utils/getNodeName.js",
+        "node_modules/@popperjs/core/lib/dom-utils/getNodeScroll.js",
+        "node_modules/@popperjs/core/lib/dom-utils/getOffsetParent.js",
+        "node_modules/@popperjs/core/lib/dom-utils/getParentNode.js",
+        "node_modules/@popperjs/core/lib/dom-utils/getScrollParent.js",
+        "node_modules/@popperjs/core/lib/dom-utils/getViewportRect.js",
+        "node_modules/@popperjs/core/lib/dom-utils/getWindow.js",
+        "node_modules/@popperjs/core/lib/dom-utils/getWindowScroll.js",
+        "node_modules/@popperjs/core/lib/dom-utils/getWindowScrollBarX.js",
+        "node_modules/@popperjs/core/lib/dom-utils/instanceOf.js",
+        "node_modules/@popperjs/core/lib/dom-utils/isLayoutViewport.js",
+        "node_modules/@popperjs/core/lib/dom-utils/isScrollParent.js",
+        "node_modules/@popperjs/core/lib/dom-utils/isTableElement.js",
+        "node_modules/@popperjs/core/lib/dom-utils/listScrollParents.js",
+        "node_modules/@popperjs/core/lib/enums.js",
+        "node_modules/@popperjs/core/lib/modifiers/applyStyles.js",
+        "node_modules/@popperjs/core/lib/modifiers/arrow.js",
+        "node_modules/@popperjs/core/lib/modifiers/computeStyles.js",
+        "node_modules/@popperjs/core/lib/modifiers/eventListeners.js",
+        "node_modules/@popperjs/core/lib/modifiers/flip.js",
+        "node_modules/@popperjs/core/lib/modifiers/hide.js",
+        "node_modules/@popperjs/core/lib/modifiers/offset.js",
+        "node_modules/@popperjs/core/lib/modifiers/popperOffsets.js",
+        "node_modules/@popperjs/core/lib/modifiers/preventOverflow.js",
+        "node_modules/@popperjs/core/lib/popper.js",
+        "node_modules/@popperjs/core/lib/utils/computeAutoPlacement.js",
+        "node_modules/@popperjs/core/lib/utils/computeOffsets.js",
+        "node_modules/@popperjs/core/lib/utils/debounce.js",
+        "node_modules/@popperjs/core/lib/utils/detectOverflow.js",
+        "node_modules/@popperjs/core/lib/utils/expandToHashMap.js",
+        "node_modules/@popperjs/core/lib/utils/getAltAxis.js",
+        "node_modules/@popperjs/core/lib/utils/getBasePlacement.js",
+        "node_modules/@popperjs/core/lib/utils/getFreshSideObject.js",
+        "node_modules/@popperjs/core/lib/utils/getMainAxisFromPlacement.js",
+        "node_modules/@popperjs/core/lib/utils/getOppositePlacement.js",
+        "node_modules/@popperjs/core/lib/utils/getOppositeVariationPlacement.js",
+        "node_modules/@popperjs/core/lib/utils/getVariation.js",
+        "node_modules/@popperjs/core/lib/utils/math.js",
+        "node_modules/@popperjs/core/lib/utils/mergeByName.js",
+        "node_modules/@popperjs/core/lib/utils/mergePaddingObject.js",
+        "node_modules/@popperjs/core/lib/utils/orderModifiers.js",
+        "node_modules/@popperjs/core/lib/utils/rectToClientRect.js",
+        "node_modules/@popperjs/core/lib/utils/userAgent.js",
+        "node_modules/@popperjs/core/lib/utils/within.js",
+        "node_modules/react-is/cjs/react-is.production.min.js",
+        "node_modules/react-transition-group/esm/Transition.js",
+        "node_modules/react-transition-group/esm/TransitionGroup.js",
+        "node_modules/react-transition-group/esm/TransitionGroupContext.js",
+        "node_modules/react-transition-group/esm/config.js",
+        "node_modules/react-transition-group/esm/utils/ChildMapping.js",
+        "node_modules/react-transition-group/esm/utils/reflow.js",
+        "src/integrations/react/mui.tsx",
+        "src/types/locale.ts"
+      ]
+    },
+    "styled-1de36be1.js": {
+      "size": 11780,
+      "imports": [
+        "createTheme-d96f305b.js",
+        "index-a2555fc4.js",
+        "useThemeProps-2cefba37.js"
+      ],
+      "origins": [
+        "node_modules/@emotion/is-prop-valid/dist/emotion-is-prop-valid.esm.js",
+        "node_modules/@emotion/styled/base/dist/emotion-styled-base.browser.esm.js",
+        "node_modules/@emotion/styled/dist/emotion-styled.browser.esm.js",
+        "node_modules/@mui/material/styles/styled.js",
+        "node_modules/@mui/styled-engine/index.js",
+        "node_modules/@mui/system/esm/createStyled.js",
+        "node_modules/@mui/system/esm/propsToClassKey.js",
+        "node_modules/@mui/utils/esm/ClassNameGenerator/ClassNameGenerator.js",
+        "node_modules/@mui/utils/esm/composeClasses/composeClasses.js",
+        "node_modules/@mui/utils/esm/generateUtilityClass/generateUtilityClass.js",
+        "node_modules/clsx/dist/clsx.mjs"
+      ]
+    },
+    "text-content-card-7a3d36c9.js": {
+      "size": 1202,
+      "imports": [
+        "core.min-8576279f.js",
+        "createTheme-d96f305b.js"
+      ],
+      "dynamicImports": [
+        "entry_TextContentCard-5b76f9ad.js"
+      ],
+      "origins": [
+        "node_modules/@mui/material/colors/amber.js",
+        "node_modules/@mui/material/colors/cyan.js",
+        "src/components/text-content-card/text-content-card.tsx"
+      ]
+    },
+    "theme-context-d14dccb2.js": {
+      "size": 86,
+      "imports": [
+        "core.min-8576279f.js"
+      ],
+      "origins": [
+        "src/hooks/use-theme/theme-context.ts"
+      ]
+    },
+    "useTheme-2bef1d0f.js": {
+      "size": 2244,
+      "imports": [
+        "core.min-8576279f.js",
+        "createTheme-d96f305b.js",
+        "theme-context-d14dccb2.js"
+      ],
+      "dynamicImports": [
+        "entry_useTheme-0858a969.js"
+      ],
+      "origins": [
+        "node_modules/@mui/material/styles/cssUtils.js",
+        "node_modules/@mui/material/styles/responsiveFontSizes.js",
+        "src/hooks/use-theme/useTheme.tsx"
+      ]
+    },
+    "useThemeProps-2cefba37.js": {
+      "size": 14867,
+      "imports": [
+        "createTheme-d96f305b.js",
+        "index-a2555fc4.js"
+      ],
+      "origins": [
+        "node_modules/@emotion/cache/dist/emotion-cache.browser.esm.js",
+        "node_modules/@emotion/hash/dist/emotion-hash.esm.js",
+        "node_modules/@emotion/memoize/dist/emotion-memoize.esm.js",
+        "node_modules/@emotion/react/dist/emotion-element-c39617d8.browser.esm.js",
+        "node_modules/@emotion/serialize/dist/emotion-serialize.browser.esm.js",
+        "node_modules/@emotion/sheet/dist/emotion-sheet.browser.esm.js",
+        "node_modules/@emotion/unitless/dist/emotion-unitless.esm.js",
+        "node_modules/@emotion/use-insertion-effect-with-fallbacks/dist/emotion-use-insertion-effect-with-fallbacks.browser.esm.js",
+        "node_modules/@emotion/utils/dist/emotion-utils.browser.esm.js",
+        "node_modules/@mui/material/styles/defaultTheme.js",
+        "node_modules/@mui/material/styles/identifier.js",
+        "node_modules/@mui/material/styles/useThemeProps.js",
+        "node_modules/@mui/system/esm/useTheme.js",
+        "node_modules/@mui/system/esm/useThemeProps/getThemeProps.js",
+        "node_modules/@mui/system/esm/useThemeProps/useThemeProps.js",
+        "node_modules/@mui/system/esm/useThemeWithoutDefault.js",
+        "node_modules/@mui/utils/esm/resolveProps.js",
+        "node_modules/stylis/src/Enum.js",
+        "node_modules/stylis/src/Middleware.js",
+        "node_modules/stylis/src/Parser.js",
+        "node_modules/stylis/src/Serializer.js",
+        "node_modules/stylis/src/Tokenizer.js",
+        "node_modules/stylis/src/Utility.js"
+      ]
+    }
+  },
+  "injections": [
+    {
+      "tag": "style",
+      "location": "head",
+      "attributes": {
+        "data-src": "/assets/index-d11379d0.css",
+        "dangerouslySetInnerHTML": "body{background-color:inherit!important}::-webkit-scrollbar{width:15px;left:-150px}::-webkit-scrollbar-thumb{background:#C2185B;background-clip:content-box;border:5px solid transparent}\n"
+      }
+    }
+  ],
+  "version": "1",
+  "options": {
+    "target": "client",
+    "buildMode": "production",
+    "entryStrategy": {
+      "type": "smart"
+    }
+  },
+  "platform": {
+    "qwik": "1.2.12",
+    "vite": "",
+    "rollup": "3.29.4",
+    "env": "node",
+    "os": "win32",
+    "node": "20.8.0"
+  }
+}
