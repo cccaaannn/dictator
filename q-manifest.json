@@ -1,5 +1,5 @@
 {
-  "manifestHash": "dn1vqa",
+  "manifestHash": "trq3kh",
   "symbols": {
     "s_x8M3PSBRtmE": {
       "origin": "hooks/use-theme/useTheme.tsx",
@@ -81,8 +81,8 @@
       "captures": true,
       "parent": null,
       "loc": [
-        2650,
-        3859
+        2651,
+        3861
       ]
     },
     "s_rUiT0heKLW4": {
@@ -96,7 +96,7 @@
       "parent": null,
       "loc": [
         2284,
-        2627
+        2628
       ]
     },
     "s_233hVwmGXcc": {
@@ -480,27 +480,27 @@
   },
   "mapping": {
     "s_x8M3PSBRtmE": "entry_useTheme-4f9ad165.js",
-    "s_5Y9RoRO0FjM": "entry_Home-3e20cd77.js",
+    "s_5Y9RoRO0FjM": "entry_Home-7a01fcb0.js",
     "s_EWIT9ENzUX0": "entry_qwikifyQrl-f9e37e17.js",
-    "s_mo0HXTZl47U": "entry_Home-3e20cd77.js",
-    "s_01wOR3hvYkk": "entry_useSpeechRecognition-0ab2e6a2.js",
-    "s_SiV0Bqma7Vo": "entry_useSpeechRecognition-0ab2e6a2.js",
-    "s_rUiT0heKLW4": "entry_useSpeechRecognition-0ab2e6a2.js",
+    "s_mo0HXTZl47U": "entry_Home-7a01fcb0.js",
+    "s_01wOR3hvYkk": "entry_useSpeechRecognition-b1baf488.js",
+    "s_SiV0Bqma7Vo": "entry_useSpeechRecognition-b1baf488.js",
+    "s_rUiT0heKLW4": "entry_useSpeechRecognition-b1baf488.js",
     "s_233hVwmGXcc": "entry_ThemeProvider-5126dc69.js",
-    "s_AkbU84a8zes": "entry_App-8b22c7a5.js",
+    "s_AkbU84a8zes": "entry_App-d8457450.js",
     "s_HVKJpElwleM": "entry_HomeLayout-e78534f3.js",
     "s_NSzCs2iTIOw": "entry_ControlButtons-f77b981d.js",
-    "s_XuuTVOkpY0k": "entry_Home-3e20cd77.js",
+    "s_XuuTVOkpY0k": "entry_Home-7a01fcb0.js",
     "s_bWxjFXuhJxQ": "entry_TextContentCard-4954df99.js",
     "s_zH94hIe0Ick": "entry_qwikifyQrl-f9e37e17.js",
     "s_5EoLqefrCLo": "entry_Typography-0f15a35c.js",
     "s_Vq7cUYvJsVE": "entry_Alert-59decc74.js",
-    "s_YcpUnevDOig": "entry_useSpeechRecognition-0ab2e6a2.js",
+    "s_YcpUnevDOig": "entry_useSpeechRecognition-b1baf488.js",
     "s_cqfqq7k6M6g": "entry_CssBaseline-1a46491a.js",
-    "s_iGT9jpoakVc": "entry_useSpeechRecognition-0ab2e6a2.js",
+    "s_iGT9jpoakVc": "entry_useSpeechRecognition-b1baf488.js",
     "s_1lxT2SrDWxk": "entry_ControlButtons-f77b981d.js",
     "s_FuZyD3y5aiM": "entry_ControlButtons-f77b981d.js",
-    "s_iWVXWrHJmkE": "entry_Home-3e20cd77.js",
+    "s_iWVXWrHJmkE": "entry_Home-7a01fcb0.js",
     "s_hkT84xKSMLE": "entry_qwikifyQrl-f9e37e17.js",
     "s_6LYztwGzxAA": "entry_useWakeupSignal-5b23dc0c.js",
     "s_M2htshDj8gs": "entry_TooltipChip-d10f0c5e.js",
@@ -508,11 +508,11 @@
     "s_r5e6Y6l027A": "entry_IconButton-20ec4c66.js",
     "s_tUkYQF4z4PA": "entry_LocaleComboBox-dcde0489.js",
     "s_vg0W3q2nIe0": "entry_Container-fd57d4ae.js",
-    "s_yB7DAD0tufo": "entry_useSpeechRecognition-0ab2e6a2.js",
-    "s_8lijs500tO0": "entry_Home-3e20cd77.js",
-    "s_NJMe9D2wTsw": "entry_Home-3e20cd77.js",
-    "s_NRR280d1SzQ": "entry_Home-3e20cd77.js",
-    "s_gvpRZSG15gA": "entry_Home-3e20cd77.js"
+    "s_yB7DAD0tufo": "entry_useSpeechRecognition-b1baf488.js",
+    "s_8lijs500tO0": "entry_Home-7a01fcb0.js",
+    "s_NJMe9D2wTsw": "entry_Home-7a01fcb0.js",
+    "s_NRR280d1SzQ": "entry_Home-7a01fcb0.js",
+    "s_gvpRZSG15gA": "entry_Home-7a01fcb0.js"
   },
   "bundles": {
     "content-display-type-2beacfce.js": {
@@ -591,7 +591,7 @@
         "s_Vq7cUYvJsVE"
       ]
     },
-    "entry_App-8b22c7a5.js": {
+    "entry_App-d8457450.js": {
       "size": 1715,
       "imports": [
         "core.min-b4ee58aa.js",
@@ -606,7 +606,7 @@
         "useThemeProps-2cefba37.js"
       ],
       "dynamicImports": [
-        "entry_Home-3e20cd77.js",
+        "entry_Home-7a01fcb0.js",
         "entry_HomeLayout-e78534f3.js",
         "entry_ThemeProvider-5126dc69.js"
       ],
@@ -733,8 +733,8 @@
         "s_cqfqq7k6M6g"
       ]
     },
-    "entry_Home-3e20cd77.js": {
-      "size": 5791,
+    "entry_Home-7a01fcb0.js": {
+      "size": 5793,
       "imports": [
         "content-display-type-2beacfce.js",
         "core.min-b4ee58aa.js",
@@ -753,12 +753,12 @@
       ],
       "dynamicImports": [
         "entry_ControlButtons-f77b981d.js",
-        "entry_useSpeechRecognition-0ab2e6a2.js",
-        "entry_useSpeechRecognition-0ab2e6a2.js",
-        "entry_useSpeechRecognition-0ab2e6a2.js",
-        "entry_useSpeechRecognition-0ab2e6a2.js",
-        "entry_useSpeechRecognition-0ab2e6a2.js",
-        "entry_useSpeechRecognition-0ab2e6a2.js"
+        "entry_useSpeechRecognition-b1baf488.js",
+        "entry_useSpeechRecognition-b1baf488.js",
+        "entry_useSpeechRecognition-b1baf488.js",
+        "entry_useSpeechRecognition-b1baf488.js",
+        "entry_useSpeechRecognition-b1baf488.js",
+        "entry_useSpeechRecognition-b1baf488.js"
       ],
       "origins": [
         "src/components/control-buttons/control-buttons.tsx",
@@ -973,8 +973,8 @@
         "s_5EoLqefrCLo"
       ]
     },
-    "entry_useSpeechRecognition-0ab2e6a2.js": {
-      "size": 1746,
+    "entry_useSpeechRecognition-b1baf488.js": {
+      "size": 1748,
       "imports": [
         "core.min-b4ee58aa.js"
       ],
@@ -1043,13 +1043,13 @@
         "node_modules/hoist-non-react-statics/node_modules/react-is/index.js"
       ]
     },
-    "index-15e69f2e.js": {
+    "index-1ab99d98.js": {
       "size": 2551,
       "imports": [
         "core.min-b4ee58aa.js"
       ],
       "dynamicImports": [
-        "entry_App-8b22c7a5.js"
+        "entry_App-d8457450.js"
       ],
       "origins": [
         "index.html",
