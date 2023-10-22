@@ -5,12 +5,12 @@ import { DefaultLocale, Locale } from '@/types/locale';
 import useTheme from '@/hooks/use-theme/useTheme';
 import { TextContentCard } from '@/components/text-content-card/text-content-card';
 import { ContentDisplayType } from '@/types/content-display-type';
-import { VoiceRecognitionResult } from '@/hooks/use-speech-recognition/voice-recognition-result';
+import { SpeechRecognitionResult } from '@/hooks/use-speech-recognition/speech-recognition-result';
 import { ControlButtons } from '@/components/control-buttons/control-buttons';
 
 export const Home = component$(() => {
 
-	const recognitionResultListHistory = useSignal<VoiceRecognitionResult[]>([]);
+	const recognitionResultListHistory = useSignal<SpeechRecognitionResult[]>([]);
 
 	const contentDisplayType = useSignal<ContentDisplayType>(ContentDisplayType.TEXT);
 

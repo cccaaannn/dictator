@@ -1,5 +1,5 @@
 import { DefaultLocale, Locale } from '@/types/locale';
-import { VoiceRecognitionResult } from '@/hooks/use-speech-recognition/voice-recognition-result';
+import { SpeechRecognitionResult } from '@/hooks/use-speech-recognition/speech-recognition-result';
 import { Signal, useSignal, useVisibleTask$, $ } from '@builder.io/qwik';
 
 const initSpeechRecognition = (): SpeechRecognition | undefined => {
@@ -21,7 +21,7 @@ export interface UseSpeechRecognition {
 	start: () => void;
 	stop: () => void;
 	toggle: () => void;
-	recognitionResults: Signal<VoiceRecognitionResult[]>;
+	recognitionResults: Signal<SpeechRecognitionResult[]>;
 	isReady: Signal<boolean>;
 	isAvailable: Signal<boolean>;
 	isRunning: Signal<boolean>;
@@ -31,7 +31,7 @@ export interface UseSpeechRecognition {
 
 export function useSpeechRecognition(): UseSpeechRecognition {
 
-	const recognitionResults = useSignal<VoiceRecognitionResult[]>([]);
+	const recognitionResults = useSignal<SpeechRecognitionResult[]>([]);
 	const isReady = useSignal<boolean>(false);
 	const isAvailable = useSignal<boolean>(false);
 	const isRunning = useSignal<boolean>(false);

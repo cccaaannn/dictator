@@ -1,7 +1,7 @@
 import { Signal, component$ } from '@builder.io/qwik'
 import { Box, TooltipChip, Typography } from '@/integrations/react/mui';
 import useTheme from '@/hooks/use-theme/useTheme';
-import { VoiceRecognitionResult } from '@/hooks/use-speech-recognition/voice-recognition-result';
+import { SpeechRecognitionResult } from '@/hooks/use-speech-recognition/speech-recognition-result';
 import { ContentDisplayType } from '@/types/content-display-type';
 import { green, red, cyan, amber, orange, grey } from '@mui/material/colors';
 
@@ -27,7 +27,7 @@ function getConfidenceColor(confidence: number | undefined) {
 }
 
 interface TextContentCardProps {
-    voiceRecognitionResultList: Signal<VoiceRecognitionResult[]>;
+    voiceRecognitionResultList: Signal<SpeechRecognitionResult[]>;
     contentDisplayType: Signal<ContentDisplayType>;
 }
 
