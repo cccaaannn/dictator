@@ -78,7 +78,7 @@ export function useSpeechRecognition(): UseSpeechRecognition {
 		track(() => _recognizer.value)
 
 		if (_recognizer.value) {
-			console.info("[UseSpeechRecognition] SpeechRecognition initialized");
+			console.debug("[UseSpeechRecognition] SpeechRecognition initialized");
 			isAvailable.value = true;
 		}
 		else {
@@ -112,7 +112,7 @@ export function useSpeechRecognition(): UseSpeechRecognition {
 				});
 
 			if (e.results[0].isFinal) {
-				console.info("[SpeechRecognition]", transcript);
+				console.debug("[SpeechRecognition]", transcript);
 				recognitionResults.value = transcript;
 			}
 		}
