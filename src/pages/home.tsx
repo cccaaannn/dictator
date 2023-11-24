@@ -7,6 +7,7 @@ import { TextContentCard } from '@/components/text-content-card/text-content-car
 import { ContentDisplayType } from '@/types/content-display-type';
 import { SpeechRecognitionResult } from '@/hooks/use-speech-recognition/speech-recognition-result';
 import { ControlButtons } from '@/components/control-buttons/control-buttons';
+import SettingsUtils, { Settings } from '@/utils/settings-utils';
 
 export const Home = component$(() => {
 
@@ -14,7 +15,9 @@ export const Home = component$(() => {
 
 	const contentDisplayType = useSignal<ContentDisplayType>(ContentDisplayType.TEXT);
 
-	const { theme } = useTheme();
+	const isSettingsLoaded = useSignal<boolean>(false);
+
+	const { theme, paletteMode } = useTheme();
 
 	const {
 		toggle,
@@ -47,6 +50,33 @@ export const Home = component$(() => {
 			recognitionResultListHistory.value = [...recognitionResultListHistory.value, ...recognitionResults.value];
 			recognitionResults.value = [];
 		}
+	});
+
+	useTask$(() => {
+		const settings: Settings | null = SettingsUtils.loadSettings();
+		if (settings) {
+			contentDisplayType.value = settings.contentDisplayType;
+			locale.value = settings.locale;
+			paletteMode.value = settings.paletteMode;
+		}
+		isSettingsLoaded.value = true;
+	});
+
+	useTask$(({ track }) => {
+		track(() => locale.value);
+		track(() => contentDisplayType.value);
+		track(() => paletteMode.value);
+		track(() => isSettingsLoaded.value);
+
+		if (!isSettingsLoaded.value) return;
+
+		const settings: Settings = {
+			locale: locale.value,
+			contentDisplayType: contentDisplayType.value,
+			paletteMode: paletteMode.value
+		}
+
+		SettingsUtils.saveSettings(settings);
 	});
 
 	if (!isReady.value) return <Alert severity="info">Loading...</Alert>
