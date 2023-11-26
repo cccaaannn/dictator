@@ -1,5 +1,5 @@
 {
-  "manifestHash": "trq3kh",
+  "manifestHash": "kxkmkq",
   "symbols": {
     "s_x8M3PSBRtmE": {
       "origin": "hooks/use-theme/useTheme.tsx",
@@ -9,10 +9,9 @@
       "ctxKind": "function",
       "ctxName": "useTask$",
       "captures": true,
-      "parent": null,
       "loc": [
-        939,
-        1253
+        899,
+        1202
       ]
     },
     "s_5Y9RoRO0FjM": {
@@ -25,8 +24,8 @@
       "captures": true,
       "parent": "s_XuuTVOkpY0k",
       "loc": [
-        2145,
-        2547
+        2081,
+        2468
       ]
     },
     "s_EWIT9ENzUX0": {
@@ -53,8 +52,8 @@
       "captures": true,
       "parent": "s_XuuTVOkpY0k",
       "loc": [
-        1851,
-        2129
+        1797,
+        2067
       ]
     },
     "s_01wOR3hvYkk": {
@@ -65,10 +64,9 @@
       "ctxKind": "function",
       "ctxName": "useVisibleTask$",
       "captures": true,
-      "parent": null,
       "loc": [
-        1950,
-        2261
+        1886,
+        2187
       ]
     },
     "s_SiV0Bqma7Vo": {
@@ -79,10 +77,9 @@
       "ctxKind": "function",
       "ctxName": "useVisibleTask$",
       "captures": true,
-      "parent": null,
       "loc": [
-        2651,
-        3861
+        2560,
+        3731
       ]
     },
     "s_rUiT0heKLW4": {
@@ -93,10 +90,9 @@
       "ctxKind": "function",
       "ctxName": "useVisibleTask$",
       "captures": true,
-      "parent": null,
       "loc": [
-        2284,
-        2628
+        2208,
+        2539
       ]
     },
     "s_233hVwmGXcc": {
@@ -107,10 +103,9 @@
       "ctxKind": "function",
       "ctxName": "component$",
       "captures": false,
-      "parent": null,
       "loc": [
-        258,
-        390
+        253,
+        381
       ]
     },
     "s_AkbU84a8zes": {
@@ -121,7 +116,6 @@
       "ctxKind": "function",
       "ctxName": "component$",
       "captures": false,
-      "parent": null,
       "loc": [
         300,
         425
@@ -135,10 +129,9 @@
       "ctxKind": "function",
       "ctxName": "component$",
       "captures": false,
-      "parent": null,
       "loc": [
-        212,
-        725
+        208,
+        698
       ]
     },
     "s_NSzCs2iTIOw": {
@@ -149,10 +142,9 @@
       "ctxKind": "function",
       "ctxName": "component$",
       "captures": false,
-      "parent": null,
       "loc": [
-        495,
-        3098
+        482,
+        3018
       ]
     },
     "s_XuuTVOkpY0k": {
@@ -163,10 +155,9 @@
       "ctxKind": "function",
       "ctxName": "component$",
       "captures": false,
-      "parent": null,
       "loc": [
-        789,
-        3518
+        778,
+        3401
       ]
     },
     "s_bWxjFXuhJxQ": {
@@ -177,10 +168,9 @@
       "ctxKind": "function",
       "ctxName": "component$",
       "captures": false,
-      "parent": null,
       "loc": [
-        1050,
-        2932
+        1017,
+        2851
       ]
     },
     "s_zH94hIe0Ick": {
@@ -191,7 +181,6 @@
       "ctxKind": "function",
       "ctxName": "component$",
       "captures": true,
-      "parent": null,
       "loc": [
         4948,
         8083
@@ -205,10 +194,9 @@
       "ctxKind": "function",
       "ctxName": "qwikify$",
       "captures": false,
-      "parent": null,
       "loc": [
-        6643,
-        6659
+        6417,
+        6433
       ]
     },
     "s_Vq7cUYvJsVE": {
@@ -219,10 +207,9 @@
       "ctxKind": "function",
       "ctxName": "qwikify$",
       "captures": false,
-      "parent": null,
       "loc": [
-        7041,
-        7052
+        6810,
+        6821
       ]
     },
     "s_YcpUnevDOig": {
@@ -233,10 +220,9 @@
       "ctxKind": "function",
       "ctxName": "$",
       "captures": true,
-      "parent": null,
       "loc": [
-        1871,
-        1927
+        1811,
+        1865
       ]
     },
     "s_cqfqq7k6M6g": {
@@ -247,10 +233,9 @@
       "ctxKind": "function",
       "ctxName": "qwikify$",
       "captures": false,
-      "parent": null,
       "loc": [
-        6455,
-        6467
+        6232,
+        6244
       ]
     },
     "s_iGT9jpoakVc": {
@@ -261,10 +246,9 @@
       "ctxKind": "function",
       "ctxName": "$",
       "captures": true,
-      "parent": null,
       "loc": [
-        1676,
-        1847
+        1625,
+        1789
       ]
     },
     "s_1lxT2SrDWxk": {
@@ -277,8 +261,8 @@
       "captures": true,
       "parent": "s_NSzCs2iTIOw",
       "loc": [
-        1384,
-        1467
+        1348,
+        1431
       ]
     },
     "s_FuZyD3y5aiM": {
@@ -291,8 +275,8 @@
       "captures": true,
       "parent": "s_NSzCs2iTIOw",
       "loc": [
-        2585,
-        2721
+        2519,
+        2653
       ]
     },
     "s_iWVXWrHJmkE": {
@@ -305,8 +289,8 @@
       "captures": true,
       "parent": "s_XuuTVOkpY0k",
       "loc": [
-        1602,
-        1835
+        1557,
+        1783
       ]
     },
     "s_hkT84xKSMLE": {
@@ -331,7 +315,6 @@
       "ctxKind": "function",
       "ctxName": "activate",
       "captures": true,
-      "parent": null,
       "loc": [
         2477,
         2562
@@ -345,10 +328,9 @@
       "ctxKind": "function",
       "ctxName": "qwikify$",
       "captures": false,
-      "parent": null,
       "loc": [
-        6816,
-        6833
+        6588,
+        6605
       ]
     },
     "s_nnfAqPYCfnw": {
@@ -359,10 +341,9 @@
       "ctxKind": "function",
       "ctxName": "qwikify$",
       "captures": false,
-      "parent": null,
       "loc": [
-        6499,
-        6508
+        6275,
+        6284
       ]
     },
     "s_r5e6Y6l027A": {
@@ -373,10 +354,9 @@
       "ctxKind": "function",
       "ctxName": "qwikify$",
       "captures": false,
-      "parent": null,
       "loc": [
-        6967,
-        6983
+        6737,
+        6753
       ]
     },
     "s_tUkYQF4z4PA": {
@@ -387,10 +367,9 @@
       "ctxKind": "function",
       "ctxName": "qwikify$",
       "captures": false,
-      "parent": null,
       "loc": [
-        7282,
-        7297
+        7048,
+        7063
       ]
     },
     "s_vg0W3q2nIe0": {
@@ -401,10 +380,9 @@
       "ctxKind": "function",
       "ctxName": "qwikify$",
       "captures": false,
-      "parent": null,
       "loc": [
-        6570,
-        6580
+        6345,
+        6355
       ]
     },
     "s_yB7DAD0tufo": {
@@ -415,10 +393,9 @@
       "ctxKind": "function",
       "ctxName": "$",
       "captures": true,
-      "parent": null,
       "loc": [
-        1482,
-        1654
+        1440,
+        1605
       ]
     },
     "s_8lijs500tO0": {
@@ -431,8 +408,8 @@
       "captures": true,
       "parent": "s_XuuTVOkpY0k",
       "loc": [
-        1383,
-        1504
+        1346,
+        1465
       ]
     },
     "s_NJMe9D2wTsw": {
@@ -445,8 +422,8 @@
       "captures": true,
       "parent": "s_XuuTVOkpY0k",
       "loc": [
-        1531,
-        1586
+        1490,
+        1543
       ]
     },
     "s_NRR280d1SzQ": {
@@ -459,8 +436,8 @@
       "captures": true,
       "parent": "s_XuuTVOkpY0k",
       "loc": [
-        3277,
-        3446
+        3171,
+        3334
       ]
     },
     "s_gvpRZSG15gA": {
@@ -473,46 +450,46 @@
       "captures": true,
       "parent": "s_XuuTVOkpY0k",
       "loc": [
-        1267,
-        1357
+        1234,
+        1322
       ]
     }
   },
   "mapping": {
     "s_x8M3PSBRtmE": "entry_useTheme-4f9ad165.js",
-    "s_5Y9RoRO0FjM": "entry_Home-7a01fcb0.js",
-    "s_EWIT9ENzUX0": "entry_qwikifyQrl-f9e37e17.js",
-    "s_mo0HXTZl47U": "entry_Home-7a01fcb0.js",
+    "s_5Y9RoRO0FjM": "entry_Home-f0641d7f.js",
+    "s_EWIT9ENzUX0": "entry_qwikifyQrl-c7db5f6f.js",
+    "s_mo0HXTZl47U": "entry_Home-f0641d7f.js",
     "s_01wOR3hvYkk": "entry_useSpeechRecognition-b1baf488.js",
     "s_SiV0Bqma7Vo": "entry_useSpeechRecognition-b1baf488.js",
     "s_rUiT0heKLW4": "entry_useSpeechRecognition-b1baf488.js",
     "s_233hVwmGXcc": "entry_ThemeProvider-5126dc69.js",
-    "s_AkbU84a8zes": "entry_App-d8457450.js",
-    "s_HVKJpElwleM": "entry_HomeLayout-e78534f3.js",
-    "s_NSzCs2iTIOw": "entry_ControlButtons-f77b981d.js",
-    "s_XuuTVOkpY0k": "entry_Home-7a01fcb0.js",
-    "s_bWxjFXuhJxQ": "entry_TextContentCard-4954df99.js",
-    "s_zH94hIe0Ick": "entry_qwikifyQrl-f9e37e17.js",
-    "s_5EoLqefrCLo": "entry_Typography-0f15a35c.js",
-    "s_Vq7cUYvJsVE": "entry_Alert-59decc74.js",
+    "s_AkbU84a8zes": "entry_App-3070dff4.js",
+    "s_HVKJpElwleM": "entry_HomeLayout-b7052ad6.js",
+    "s_NSzCs2iTIOw": "entry_ControlButtons-d4879642.js",
+    "s_XuuTVOkpY0k": "entry_Home-f0641d7f.js",
+    "s_bWxjFXuhJxQ": "entry_TextContentCard-4f6389c2.js",
+    "s_zH94hIe0Ick": "entry_qwikifyQrl-c7db5f6f.js",
+    "s_5EoLqefrCLo": "entry_Typography-2b4bbdc4.js",
+    "s_Vq7cUYvJsVE": "entry_Alert-fa2355a5.js",
     "s_YcpUnevDOig": "entry_useSpeechRecognition-b1baf488.js",
     "s_cqfqq7k6M6g": "entry_CssBaseline-1a46491a.js",
     "s_iGT9jpoakVc": "entry_useSpeechRecognition-b1baf488.js",
-    "s_1lxT2SrDWxk": "entry_ControlButtons-f77b981d.js",
-    "s_FuZyD3y5aiM": "entry_ControlButtons-f77b981d.js",
-    "s_iWVXWrHJmkE": "entry_Home-7a01fcb0.js",
-    "s_hkT84xKSMLE": "entry_qwikifyQrl-f9e37e17.js",
+    "s_1lxT2SrDWxk": "entry_ControlButtons-d4879642.js",
+    "s_FuZyD3y5aiM": "entry_ControlButtons-d4879642.js",
+    "s_iWVXWrHJmkE": "entry_Home-f0641d7f.js",
+    "s_hkT84xKSMLE": "entry_qwikifyQrl-c7db5f6f.js",
     "s_6LYztwGzxAA": "entry_useWakeupSignal-5b23dc0c.js",
-    "s_M2htshDj8gs": "entry_TooltipChip-d10f0c5e.js",
-    "s_nnfAqPYCfnw": "entry_Box-791e0c95.js",
-    "s_r5e6Y6l027A": "entry_IconButton-20ec4c66.js",
-    "s_tUkYQF4z4PA": "entry_LocaleComboBox-dcde0489.js",
+    "s_M2htshDj8gs": "entry_TooltipChip-12ba4522.js",
+    "s_nnfAqPYCfnw": "entry_Box-b2723fb8.js",
+    "s_r5e6Y6l027A": "entry_IconButton-211c8b1c.js",
+    "s_tUkYQF4z4PA": "entry_LocaleComboBox-0cdd6601.js",
     "s_vg0W3q2nIe0": "entry_Container-fd57d4ae.js",
     "s_yB7DAD0tufo": "entry_useSpeechRecognition-b1baf488.js",
-    "s_8lijs500tO0": "entry_Home-7a01fcb0.js",
-    "s_NJMe9D2wTsw": "entry_Home-7a01fcb0.js",
-    "s_NRR280d1SzQ": "entry_Home-7a01fcb0.js",
-    "s_gvpRZSG15gA": "entry_Home-7a01fcb0.js"
+    "s_8lijs500tO0": "entry_Home-f0641d7f.js",
+    "s_NJMe9D2wTsw": "entry_Home-f0641d7f.js",
+    "s_NRR280d1SzQ": "entry_Home-f0641d7f.js",
+    "s_gvpRZSG15gA": "entry_Home-f0641d7f.js"
   },
   "bundles": {
     "content-display-type-2beacfce.js": {
@@ -569,7 +546,7 @@
         "node_modules/@mui/utils/esm/formatMuiErrorMessage.js"
       ]
     },
-    "entry_Alert-59decc74.js": {
+    "entry_Alert-fa2355a5.js": {
       "size": 364,
       "imports": [
         "core.min-b4ee58aa.js",
@@ -577,9 +554,9 @@
         "GlobalStyles-1f45d569.js",
         "index-863a273a.js",
         "index-a2555fc4.js",
-        "index.qwik-f321ce71.js",
+        "index.qwik-6a4fdea4.js",
         "jsx-runtime-851d10b7.js",
-        "mui-a5ef9051.js",
+        "mui-0c3a4730.js",
         "styled-1de36be1.js",
         "useThemeProps-2cefba37.js"
       ],
@@ -591,7 +568,7 @@
         "s_Vq7cUYvJsVE"
       ]
     },
-    "entry_App-d8457450.js": {
+    "entry_App-3070dff4.js": {
       "size": 1715,
       "imports": [
         "core.min-b4ee58aa.js",
@@ -599,15 +576,15 @@
         "GlobalStyles-1f45d569.js",
         "index-863a273a.js",
         "index-a2555fc4.js",
-        "index.qwik-f321ce71.js",
+        "index.qwik-6a4fdea4.js",
         "jsx-runtime-851d10b7.js",
-        "mui-a5ef9051.js",
+        "mui-0c3a4730.js",
         "styled-1de36be1.js",
         "useThemeProps-2cefba37.js"
       ],
       "dynamicImports": [
-        "entry_Home-7a01fcb0.js",
-        "entry_HomeLayout-e78534f3.js",
+        "entry_Home-f0641d7f.js",
+        "entry_HomeLayout-b7052ad6.js",
         "entry_ThemeProvider-5126dc69.js"
       ],
       "origins": [
@@ -621,7 +598,7 @@
         "s_AkbU84a8zes"
       ]
     },
-    "entry_Box-791e0c95.js": {
+    "entry_Box-b2723fb8.js": {
       "size": 364,
       "imports": [
         "core.min-b4ee58aa.js",
@@ -629,9 +606,9 @@
         "GlobalStyles-1f45d569.js",
         "index-863a273a.js",
         "index-a2555fc4.js",
-        "index.qwik-f321ce71.js",
+        "index.qwik-6a4fdea4.js",
         "jsx-runtime-851d10b7.js",
-        "mui-a5ef9051.js",
+        "mui-0c3a4730.js",
         "styled-1de36be1.js",
         "useThemeProps-2cefba37.js"
       ],
@@ -643,12 +620,12 @@
         "s_nnfAqPYCfnw"
       ]
     },
-    "entry_Button-573d9cf6.js": {
+    "entry_Button-cbd9febf.js": {
       "size": 127,
       "imports": [
         "core.min-b4ee58aa.js",
         "index-a2555fc4.js",
-        "index.qwik-f321ce71.js",
+        "index.qwik-6a4fdea4.js",
         "jsx-runtime-851d10b7.js"
       ],
       "origins": [
@@ -657,12 +634,12 @@
         "src/entry_TooltipTypography.js"
       ]
     },
-    "entry_CircularProgress-573d9cf6.js": {
+    "entry_CircularProgress-cbd9febf.js": {
       "size": 127,
       "imports": [
         "core.min-b4ee58aa.js",
         "index-a2555fc4.js",
-        "index.qwik-f321ce71.js",
+        "index.qwik-6a4fdea4.js",
         "jsx-runtime-851d10b7.js"
       ]
     },
@@ -686,7 +663,7 @@
         "s_vg0W3q2nIe0"
       ]
     },
-    "entry_ControlButtons-f77b981d.js": {
+    "entry_ControlButtons-d4879642.js": {
       "size": 2724,
       "imports": [
         "content-display-type-2beacfce.js",
@@ -695,9 +672,9 @@
         "GlobalStyles-1f45d569.js",
         "index-863a273a.js",
         "index-a2555fc4.js",
-        "index.qwik-f321ce71.js",
+        "index.qwik-6a4fdea4.js",
         "jsx-runtime-851d10b7.js",
-        "mui-a5ef9051.js",
+        "mui-0c3a4730.js",
         "styled-1de36be1.js",
         "theme-context-1fe45f9e.js",
         "useTheme-0c37727c.js",
@@ -733,7 +710,7 @@
         "s_cqfqq7k6M6g"
       ]
     },
-    "entry_Home-7a01fcb0.js": {
+    "entry_Home-f0641d7f.js": {
       "size": 5793,
       "imports": [
         "content-display-type-2beacfce.js",
@@ -742,17 +719,17 @@
         "GlobalStyles-1f45d569.js",
         "index-863a273a.js",
         "index-a2555fc4.js",
-        "index.qwik-f321ce71.js",
+        "index.qwik-6a4fdea4.js",
         "jsx-runtime-851d10b7.js",
-        "mui-a5ef9051.js",
+        "mui-0c3a4730.js",
         "styled-1de36be1.js",
-        "text-content-card-6ff9d7d3.js",
+        "text-content-card-dd18c313.js",
         "theme-context-1fe45f9e.js",
         "useTheme-0c37727c.js",
         "useThemeProps-2cefba37.js"
       ],
       "dynamicImports": [
-        "entry_ControlButtons-f77b981d.js",
+        "entry_ControlButtons-d4879642.js",
         "entry_useSpeechRecognition-b1baf488.js",
         "entry_useSpeechRecognition-b1baf488.js",
         "entry_useSpeechRecognition-b1baf488.js",
@@ -785,7 +762,7 @@
         "s_XuuTVOkpY0k"
       ]
     },
-    "entry_HomeLayout-e78534f3.js": {
+    "entry_HomeLayout-b7052ad6.js": {
       "size": 1102,
       "imports": [
         "core.min-b4ee58aa.js",
@@ -793,9 +770,9 @@
         "GlobalStyles-1f45d569.js",
         "index-863a273a.js",
         "index-a2555fc4.js",
-        "index.qwik-f321ce71.js",
+        "index.qwik-6a4fdea4.js",
         "jsx-runtime-851d10b7.js",
-        "mui-a5ef9051.js",
+        "mui-0c3a4730.js",
         "styled-1de36be1.js",
         "theme-context-1fe45f9e.js",
         "useTheme-0c37727c.js",
@@ -809,7 +786,7 @@
         "s_HVKJpElwleM"
       ]
     },
-    "entry_IconButton-20ec4c66.js": {
+    "entry_IconButton-211c8b1c.js": {
       "size": 364,
       "imports": [
         "core.min-b4ee58aa.js",
@@ -817,9 +794,9 @@
         "GlobalStyles-1f45d569.js",
         "index-863a273a.js",
         "index-a2555fc4.js",
-        "index.qwik-f321ce71.js",
+        "index.qwik-6a4fdea4.js",
         "jsx-runtime-851d10b7.js",
-        "mui-a5ef9051.js",
+        "mui-0c3a4730.js",
         "styled-1de36be1.js",
         "useThemeProps-2cefba37.js"
       ],
@@ -831,7 +808,7 @@
         "s_r5e6Y6l027A"
       ]
     },
-    "entry_LocaleComboBox-dcde0489.js": {
+    "entry_LocaleComboBox-0cdd6601.js": {
       "size": 364,
       "imports": [
         "core.min-b4ee58aa.js",
@@ -839,9 +816,9 @@
         "GlobalStyles-1f45d569.js",
         "index-863a273a.js",
         "index-a2555fc4.js",
-        "index.qwik-f321ce71.js",
+        "index.qwik-6a4fdea4.js",
         "jsx-runtime-851d10b7.js",
-        "mui-a5ef9051.js",
+        "mui-0c3a4730.js",
         "styled-1de36be1.js",
         "useThemeProps-2cefba37.js"
       ],
@@ -853,13 +830,13 @@
         "s_tUkYQF4z4PA"
       ]
     },
-    "entry_qwikifyQrl-f9e37e17.js": {
-      "size": 1479,
+    "entry_qwikifyQrl-c7db5f6f.js": {
+      "size": 1473,
       "imports": [
         "core.min-b4ee58aa.js",
         "index-863a273a.js",
         "index-a2555fc4.js",
-        "index.qwik-f321ce71.js"
+        "index.qwik-6a4fdea4.js"
       ],
       "origins": [
         "node_modules/react-dom/client.js",
@@ -874,7 +851,7 @@
         "s_zH94hIe0Ick"
       ]
     },
-    "entry_TextContentCard-4954df99.js": {
+    "entry_TextContentCard-4f6389c2.js": {
       "size": 1720,
       "imports": [
         "content-display-type-2beacfce.js",
@@ -883,11 +860,11 @@
         "GlobalStyles-1f45d569.js",
         "index-863a273a.js",
         "index-a2555fc4.js",
-        "index.qwik-f321ce71.js",
+        "index.qwik-6a4fdea4.js",
         "jsx-runtime-851d10b7.js",
-        "mui-a5ef9051.js",
+        "mui-0c3a4730.js",
         "styled-1de36be1.js",
-        "text-content-card-6ff9d7d3.js",
+        "text-content-card-dd18c313.js",
         "theme-context-1fe45f9e.js",
         "useTheme-0c37727c.js",
         "useThemeProps-2cefba37.js"
@@ -920,7 +897,7 @@
         "s_233hVwmGXcc"
       ]
     },
-    "entry_TooltipChip-d10f0c5e.js": {
+    "entry_TooltipChip-12ba4522.js": {
       "size": 364,
       "imports": [
         "core.min-b4ee58aa.js",
@@ -928,9 +905,9 @@
         "GlobalStyles-1f45d569.js",
         "index-863a273a.js",
         "index-a2555fc4.js",
-        "index.qwik-f321ce71.js",
+        "index.qwik-6a4fdea4.js",
         "jsx-runtime-851d10b7.js",
-        "mui-a5ef9051.js",
+        "mui-0c3a4730.js",
         "styled-1de36be1.js",
         "useThemeProps-2cefba37.js"
       ],
@@ -942,16 +919,16 @@
         "s_M2htshDj8gs"
       ]
     },
-    "entry_TooltipTypography-573d9cf6.js": {
+    "entry_TooltipTypography-cbd9febf.js": {
       "size": 127,
       "imports": [
         "core.min-b4ee58aa.js",
         "index-a2555fc4.js",
-        "index.qwik-f321ce71.js",
+        "index.qwik-6a4fdea4.js",
         "jsx-runtime-851d10b7.js"
       ]
     },
-    "entry_Typography-0f15a35c.js": {
+    "entry_Typography-2b4bbdc4.js": {
       "size": 364,
       "imports": [
         "core.min-b4ee58aa.js",
@@ -959,9 +936,9 @@
         "GlobalStyles-1f45d569.js",
         "index-863a273a.js",
         "index-a2555fc4.js",
-        "index.qwik-f321ce71.js",
+        "index.qwik-6a4fdea4.js",
         "jsx-runtime-851d10b7.js",
-        "mui-a5ef9051.js",
+        "mui-0c3a4730.js",
         "styled-1de36be1.js",
         "useThemeProps-2cefba37.js"
       ],
@@ -1043,22 +1020,6 @@
         "node_modules/hoist-non-react-statics/node_modules/react-is/index.js"
       ]
     },
-    "index-1ab99d98.js": {
-      "size": 2551,
-      "imports": [
-        "core.min-b4ee58aa.js"
-      ],
-      "dynamicImports": [
-        "entry_App-d8457450.js"
-      ],
-      "origins": [
-        "index.html",
-        "node_modules/@builder.io/qwik/qwikloader.js",
-        "src/app.tsx",
-        "src/index.css",
-        "src/main.tsx"
-      ]
-    },
     "index-863a273a.js": {
       "size": 134026,
       "imports": [
@@ -1078,14 +1039,30 @@
         "node_modules/react/index.js"
       ]
     },
-    "index.qwik-f321ce71.js": {
+    "index-d3d64157.js": {
+      "size": 2551,
+      "imports": [
+        "core.min-b4ee58aa.js"
+      ],
+      "dynamicImports": [
+        "entry_App-3070dff4.js"
+      ],
+      "origins": [
+        "index.html",
+        "node_modules/@builder.io/qwik/qwikloader.js",
+        "src/app.tsx",
+        "src/index.css",
+        "src/main.tsx"
+      ]
+    },
+    "index.qwik-6a4fdea4.js": {
       "size": 1624,
       "imports": [
         "core.min-b4ee58aa.js",
         "index-a2555fc4.js"
       ],
       "dynamicImports": [
-        "entry_qwikifyQrl-f9e37e17.js",
+        "entry_qwikifyQrl-c7db5f6f.js",
         "entry_useWakeupSignal-5b23dc0c.js"
       ],
       "origins": [
@@ -1102,7 +1079,7 @@
         "node_modules/react/jsx-runtime.js"
       ]
     },
-    "mui-a5ef9051.js": {
+    "mui-0c3a4730.js": {
       "size": 178330,
       "imports": [
         "core.min-b4ee58aa.js",
@@ -1110,20 +1087,20 @@
         "GlobalStyles-1f45d569.js",
         "index-863a273a.js",
         "index-a2555fc4.js",
-        "index.qwik-f321ce71.js",
+        "index.qwik-6a4fdea4.js",
         "jsx-runtime-851d10b7.js",
         "styled-1de36be1.js",
         "useThemeProps-2cefba37.js"
       ],
       "dynamicImports": [
-        "entry_Alert-59decc74.js",
-        "entry_Box-791e0c95.js",
+        "entry_Alert-fa2355a5.js",
+        "entry_Box-b2723fb8.js",
         "entry_Container-fd57d4ae.js",
         "entry_CssBaseline-1a46491a.js",
-        "entry_IconButton-20ec4c66.js",
-        "entry_LocaleComboBox-dcde0489.js",
-        "entry_TooltipChip-d10f0c5e.js",
-        "entry_Typography-0f15a35c.js"
+        "entry_IconButton-211c8b1c.js",
+        "entry_LocaleComboBox-0cdd6601.js",
+        "entry_TooltipChip-12ba4522.js",
+        "entry_Typography-2b4bbdc4.js"
       ],
       "origins": [
         "node_modules/@babel/runtime/helpers/esm/assertThisInitialized.js",
@@ -1332,14 +1309,14 @@
         "node_modules/clsx/dist/clsx.mjs"
       ]
     },
-    "text-content-card-6ff9d7d3.js": {
+    "text-content-card-dd18c313.js": {
       "size": 1202,
       "imports": [
         "core.min-b4ee58aa.js",
         "createTheme-d96f305b.js"
       ],
       "dynamicImports": [
-        "entry_TextContentCard-4954df99.js"
+        "entry_TextContentCard-4f6389c2.js"
       ],
       "origins": [
         "node_modules/@mui/material/colors/amber.js",
@@ -1428,7 +1405,7 @@
     "vite": "",
     "rollup": "3.29.4",
     "env": "node",
-    "os": "win32",
-    "node": "20.8.0"
+    "os": "linux",
+    "node": "20.9.0"
   }
 }
